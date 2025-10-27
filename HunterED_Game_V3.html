@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hunter Education Practice Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.2/dist/confetti.browser.min.js"></script>
+    <style>
+        /* Custom font and base styles */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #e0f2f1; /* Light Teal Background */
+        }
+        .container {
+            max-width: 420px; /* Mobile-first width */
+            padding: 1rem;
+        }
+        /* Custom styles for engaging buttons */
+        .answer-button {
+            transition: all 0.15s ease-in-out;
+            transform: scale(1);
+        }
+        .answer-button:hover {
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+            transform: translateY(-2px);
+        }
+        .correct {
+            background-color: #10b981 !important; /* Emerald 500 */
+            color: white !important;
+            border-color: #059669 !important;
+            animation: pulse-correct 0.5s 1;
+        }
+        .incorrect {
+            background-color: #ef4444 !important; /* Red 500 */
+            color: white !important;
+            border-color: #dc2626 !important;
+            animation: shake-incorrect 0.5s 1;
+        }
+        @keyframes pulse-correct {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.02); }
+            100% { transform: scale(1); }
+        }
+        @keyframes shake-incorrect {
+            0%, 100% { transform: translateX(0); }
+            20%, 60% { transform: translateX(-5px); }
+            40%, 80% { transform: translateX(5px); }
+
+        }
+        /* Style for the feedback message box (modal replacement) */
+        #feedback-message {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%) scale(0);
+            z-index: 50;
+            visibility: hidden; /* Fix: Removed double space */
+            opacity: 0;
+            transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out, visibility 0.3s;
+        }
+        #feedback-message.show {
+            transform: translate(-50%, -50%) scale(1);
+            visibility: visible;
+            opacity: 1;
+        }
+        /* Progress Bar Styles */
+        #progress-bar-container {
+            background-color: #cbd5e1;
+            border-radius: 9999px;
+            height: 8px;
+            overflow: hidden;
+            width: 100%;
+            margin-top: 4px;
+        }
+        #progress-bar {
+            background-color: #22c55e;
+            height: 100%;
+            width: 0%;
+            border-radius: 9999px;
+            transition: width 0.3s ease-in-out;
+        }
+        /* Style for centered milestone message */
+        .milestone-text {
+            text-align: center;
+            font-weight: bold;
+            margin-top: 0.5rem;
+            color: #ffffff;
+            text-shadow: 1px 1px 2px rgba(0,0,0,0.5); /* Fix: Removed double space */
+        }
+        /* Ensure feedback text wraps */
+        #feedback-text {
+            overflow-wrap: break-word;
+            word-wrap: break-word; /* legacy */
+        }
+    </style>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+
+    <div id="quiz-app" class="container bg-white shadow-2xl rounded-xl border border-gray-100">
+
+        <div id="launch-screen" class="p-8 text-center">
+            <span data-lucide="shield" class="w-16 h-16 inline-block text-green-700 mb-4" aria-hidden="true"></span>
+            <h1 class="text-3xl font-bold text-gray-800 mb-2">Welcome, Future Hunter!</h1>
+            <p class="text-md text-gray-600 mb-8">Choose your practice mode below to begin your Hunter Education review.</p>
+
+            <div class="space-y-4">
+                <button onclick="startRandomizedQuiz()" class="w-full py-3 bg-amber-600 text-white font-bold rounded-lg shadow-lg hover:bg-amber-700 transition-colors flex items-center justify-center">
+                    <span data-lucide="shuffle" class="w-5 h-5 mr-2" aria-hidden="true"></span>
+                    Challenge Mode (Random Questions)
+                </button>
+                <button onclick="startSequentialQuiz()" class="w-full py-3 bg-emerald-600 text-white font-bold rounded-lg shadow-lg hover:bg-emerald-700 transition-colors flex items-center justify-center">
+                    <span data-lucide="list-ordered" class="w-5 h-5 mr-2" aria-hidden="true"></span>
+                    Study Mode (Questions in Order)
+                </button>
+            </div>
+            <p id="tip-display" class="text-sm text-gray-500 mt-6 italic"></p>
+        </div>
+
+        <div id="quiz-view" class="hidden">
+            <header class="p-4 bg-green-700 text-white rounded-t-xl text-center">
+                <div class="flex items-center justify-center mb-1">
+                    <span data-lucide="shield-check" class="w-7 h-7 mr-2" aria-hidden="true"></span>
+                    <h1 class="text-2xl font-bold tracking-tight">Hunter Education Practice Quiz</h1>
+                </div>
+                <p class="text-xs opacity-90">AHEIA Hunter Education</p>
+            </header>
+
+            <div class="flex justify-between items-center p-3 bg-green-50 rounded-b-lg border-b border-green-200">
+                <span id="score-display" class="text-md font-semibold text-green-800 flex items-center" aria-live="polite">
+                    <span data-lucide="medal" class="w-4 h-4 mr-1 text-yellow-600 fill-yellow-400" aria-hidden="true"></span> Score: 0
+                </span>
+                 <div class="flex-grow ml-4">
+                    <span id="progress-display" class="text-xs font-medium text-gray-600 block text-right">
+                        Question 1 / 55
+                    </span>
+                    <div id="progress-bar-container">
+                        <div id="progress-bar"></div>
+                    </div>
+                </div>
+            </div>
+
+             <main id="game-container" class="p-3" aria-live="polite">
+                 <div class="flex items-center mb-2 text-green-700">
+                    <span id="category-icon" data-lucide="shield" class="w-5 h-5 mr-2" aria-hidden="true"></span>
+                    <span id="category-name" class="text-md font-semibold">Safety</span>
+                </div>
+                 <h2 id="question-text" class="text-lg font-bold mb-3 text-gray-800 leading-relaxed">
+                    Loading question...
+                </h2>
+                 <div id="answer-buttons" class="space-y-2">
+                    </div>
+                 <button id="next-button"
+                        class="mt-3 w-full py-2.5 bg-blue-600 text-white font-bold rounded-lg shadow-md hover:bg-blue-700 transition-colors opacity-50 cursor-not-allowed"
+                        onclick="nextQuestion()"
+                        disabled
+                        aria-disabled="true">
+                    Next Question
+                    <span data-lucide="arrow-right" class="w-5 h-5 inline ml-2" aria-hidden="true"></span>
+                </button>
+
+                 <button id="return-launch-quiz"
+                        class="mt-2 w-full py-1.5 bg-green-700 text-white text-sm font-medium rounded-lg shadow-md hover:bg-green-800 transition-colors flex items-center justify-center"
+                        onclick="goBackToLaunch()">
+                    <span data-lucide="home" class="w-4 h-4 mr-1" aria-hidden="true"></span>
+                    Return to Launch Screen
+                </button>
+            </main>
+
+            <div id="end-screen" class="hidden p-8 text-center">
+                <span id="rank-icon" data-lucide="trophy" class="w-16 h-16 mx-auto mb-4 text-yellow-500 fill-yellow-300" aria-hidden="true"></span>
+                <h3 id="rank-title" class="text-2xl font-extrabold text-green-700 mb-3">Quiz Complete!</h3>
+                <p id="final-score" class="text-3xl font-bold mb-2 text-gray-800">You scored 0/55!</p>
+                <p id="high-score-display" class="text-md font-semibold text-gray-700 mb-4"></p>
+                <p id="final-message" class="text-lg mb-8 text-gray-600"></p>
+                <div class="space-y-4">
+                    <button id="review-button" onclick="reviewWrongAnswers()"
+                            class="w-full py-3 bg-yellow-600 text-white font-bold rounded-lg shadow-lg hover:bg-yellow-700 transition-colors flex items-center justify-center disabled:opacity-50"
+                            disabled>
+                        <span data-lucide="book-open-check" class="w-5 h-5 mr-2" aria-hidden="true"></span>
+                        Review Wrong Answers (<span id="wrong-count">0</span>)
+                    </button>
+                    <button onclick="goBackToLaunch()"
+                            class="w-full py-3 bg-green-600 text-white font-bold rounded-lg shadow-lg hover:bg-green-700 transition-colors flex items-center justify-center">
+                        <span data-lucide="home" class="w-5 h-5 mr-2" aria-hidden="true"></span>
+                        Return to Launch Screen
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="feedback-message" role="alert" class="p-4 rounded-xl shadow-2xl transition-all border-4 border-white backdrop-blur-sm" aria-live="polite">
+        <div class="flex items-center justify-center">
+            <span id="feedback-icon" class="text-4xl mr-3" aria-hidden="true"></span>
+            <span id="feedback-text" class="text-xl font-bold text-white"></span>
+        </div>
+    </div>
+
+    <script>
+        // --- QUIZ DATA (55 Questions Total) ---
+        const masterQuestions = [
+            // ====================================================================================
+            // SECTION 1: FIREARM & ARCHERY SAFETY (21 QUESTIONS)
+            // ====================================================================================
+             { question: "According to the Four Rules of Firearm Safety, where should the muzzle of a firearm ALWAYS be pointed?", answers: [ { text: "In a safe direction, away from people and pets, at all times.", isCorrect: true, explanation: "This is Rule #1. A safe direction is one where an accidental shot will not cause harm." }, { text: "At the ground or the sky.", isCorrect: false, explanation: "Pointing up or down is safer than pointing at someone, but it's not the *best* safe direction." }, { text: "Towards your hunting buddy.", isCorrect: false, explanation: "Never point a firearm at anything you don't intend to shoot, especially a person!" }, { text: "Towards the target only.", isCorrect: false, explanation: "You must always control the muzzle, even before you have identified your target." }, ], category: "Safety" },
+             { question: "The second safety rule requires you to 'Treat every firearm as if it were loaded.' What must you always do when handed a firearm?", answers: [ { text: "Assume it is unloaded since the person handing it to you checked it.", isCorrect: false, explanation: "Never assume! Always check it yourself, every time you handle it." }, { text: "Always check the action yourself to be certain it is empty.", isCorrect: true, explanation: "That's right! You must always **PROVE** it safe yourself (Point, Remove, Observe, Verify, Engage)." }, { text: "Keep the safety in the 'off' position.", isCorrect: false, explanation: "The safety should be 'on' until you are ready to shoot." }, { text: "Hand it to your friend without checking.", isCorrect: false, explanation: "Safety is your personal responsibility. Never pass a gun without checking it first." }, ], category: "Safety" },
+... (TRUNCATED FOR CALL) 
