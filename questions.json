@@ -1,0 +1,3544 @@
+[
+    {
+        "question": "According to the Four Rules of Firearm Safety, where should the muzzle of a firearm ALWAYS be pointed?",
+        "answers": [
+            {
+                "text": "In a safe direction, away from people and pets, at all times.",
+                "isCorrect": true,
+                "explanation": "This is Rule #1. A safe direction is one where an accidental shot will not cause harm."
+            },
+            {
+                "text": "At the ground or the sky.",
+                "isCorrect": false,
+                "explanation": "Pointing up or down is safer than pointing at someone, but it's not the *best* safe direction."
+            },
+            {
+                "text": "Towards your hunting buddy.",
+                "isCorrect": false,
+                "explanation": "Never point a firearm at anything you don't intend to shoot, especially a person!"
+            },
+            {
+                "text": "Towards the target only.",
+                "isCorrect": false,
+                "explanation": "You must always control the muzzle, even before you have identified your target."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The second safety rule requires you to 'Treat every firearm as if it were loaded.' What must you always do when handed a firearm?",
+        "answers": [
+            {
+                "text": "Assume it is unloaded since the person handing it to you checked it.",
+                "isCorrect": false,
+                "explanation": "Never assume! Always check it yourself, every time you handle it."
+            },
+            {
+                "text": "Always check the action yourself to be certain it is empty.",
+                "isCorrect": true,
+                "explanation": "That's right! You must always **PROVE** it safe yourself (Point, Remove, Observe, Verify, Engage)."
+            },
+            {
+                "text": "Keep the safety in the 'off' position.",
+                "isCorrect": false,
+                "explanation": "The safety should be 'on' until you are ready to shoot."
+            },
+            {
+                "text": "Hand it to your friend without checking.",
+                "isCorrect": false,
+                "explanation": "Safety is your personal responsibility. Never pass a gun without checking it first."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "When are you allowed to put your finger inside the trigger guard?",
+        "answers": [
+            {
+                "text": "Only when you have identified your target and are ready to shoot.",
+                "isCorrect": true,
+                "explanation": "This is Rule #4. Finger off the trigger until the moment you are certain to fire."
+            },
+            {
+                "text": "Any time you are carrying the firearm.",
+                "isCorrect": false,
+                "explanation": "Keep your finger OUTSIDE the guard for maximum safety, especially when carrying."
+            },
+            {
+                "text": "When you are unloading the firearm.",
+                "isCorrect": false,
+                "explanation": "Your finger should be off the trigger when loading or unloading."
+            },
+            {
+                "text": "Only if the safety mechanism is on.",
+                "isCorrect": false,
+                "explanation": "Safeties can fail! Keep your finger away until ready to shoot."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The third safety rule is to 'Be certain of your target and what is beyond it.' This means you must:",
+        "answers": [
+            {
+                "text": "Identify the animal legally and ensure your bullet has a safe backstop.",
+                "isCorrect": true,
+                "explanation": "Exactly! You must know what you're shooting at and ensure your bullet won't travel far if you miss or pass through."
+            },
+            {
+                "text": "Only shoot at targets that are standing still.",
+                "isCorrect": false,
+                "explanation": "While safer, this isn't the main focus of the rule."
+            },
+            {
+                "text": "Only shoot when you have a clear view for three miles.",
+                "isCorrect": false,
+                "explanation": "The safe backstop is the key, not just distance."
+            },
+            {
+                "text": "Ask an adult to confirm the target is safe.",
+                "isCorrect": false,
+                "explanation": "While helpful, the responsibility is always on the person pulling the trigger."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "In the firearm safety acronym PROVE (Point, Remove, Observe, Verify, Engage), what does the 'V' stand for?",
+        "answers": [
+            {
+                "text": "View the barrel for obstruction",
+                "isCorrect": false,
+                "explanation": "Checking for obstruction is part of 'O' (Observe)."
+            },
+            {
+                "text": "Verify the feed path is clear",
+                "isCorrect": true,
+                "explanation": "Correct. 'V' stands for Verify the feed path is clear, ensuring no hidden ammunition remains in the magazine or feed system."
+            },
+            {
+                "text": "Value the target",
+                "isCorrect": false,
+                "explanation": "This is covered by the 3rd rule of safety (Be Certain of your Target)."
+            },
+            {
+                "text": "Vary the ammunition type",
+                "isCorrect": false,
+                "explanation": "You should never vary the ammunition type."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "In the firearm safety acronym PROVE, what does the 'R' stand for?",
+        "answers": [
+            {
+                "text": "Ready your firearm",
+                "isCorrect": false,
+                "explanation": "Readying the firearm is part of 'E' (Engage)."
+            },
+            {
+                "text": "Remove all ammunition",
+                "isCorrect": true,
+                "explanation": "Correct. 'R' means Remove all ammunition (magazine, chamber, feed path)."
+            },
+            {
+                "text": "Release the safety",
+                "isCorrect": false,
+                "explanation": "The safety is engaged later."
+            },
+            {
+                "text": "Rotate the bolt",
+                "isCorrect": false,
+                "explanation": "The bolt is rotated in the 'O' and 'V' stages."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "When walking beside another hunter, the safest muzzle direction is:",
+        "answers": [
+            {
+                "text": "Pointed directly forward",
+                "isCorrect": false,
+                "explanation": "Pointing forward risks pointing at the person in front or what is in front of them."
+            },
+            {
+                "text": "Pointed at the ground near your feet",
+                "isCorrect": false,
+                "explanation": "Pointing too close to the ground risks a ricochet."
+            },
+            {
+                "text": "Pointed away from your partner and toward the ground",
+                "isCorrect": true,
+                "explanation": "The muzzle should always be pointed in a safe direction, away from people, typically angled toward the ground on the outside of the group."
+            },
+            {
+                "text": "Over-the-shoulder carry toward a partner",
+                "isCorrect": false,
+                "explanation": "Never point the muzzle toward anyone."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "What is the correct way to transport a firearm in a vehicle?",
+        "answers": [
+            {
+                "text": "Unloaded and encased, with ammunition stored separately",
+                "isCorrect": true,
+                "explanation": "Firearms must be unloaded and safely stored (encased) when in or on a vehicle, with ammunition stored separately, per Alberta law."
+            },
+            {
+                "text": "Loaded but on safe",
+                "isCorrect": false,
+                "explanation": "Loaded firearms are never permitted in vehicles."
+            },
+            {
+                "text": "Across the dashboard",
+                "isCorrect": false,
+                "explanation": "The firearm must be encased and not readily accessible."
+            },
+            {
+                "text": "With bolt open and a round in the chamber",
+                "isCorrect": false,
+                "explanation": "A round in the chamber means the firearm is loaded."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The correct way to cross a fence with a firearm is to:",
+        "answers": [
+            {
+                "text": "Pass it under or over the fence, muzzle controlled and unloaded",
+                "isCorrect": true,
+                "explanation": "Always unload first, open the action, control the muzzle (muzzle point must be away from you and your partners), and then cross safely."
+            },
+            {
+                "text": "Keep it slung over your shoulder while crossing",
+                "isCorrect": false,
+                "explanation": "This compromises the muzzle direction and your balance."
+            },
+            {
+                "text": "Jump quickly to avoid damage",
+                "isCorrect": false,
+                "explanation": "Never jump or rush when crossing obstacles with a firearm."
+            },
+            {
+                "text": "Climb over with one hand holding the gun",
+                "isCorrect": false,
+                "explanation": "You must use both hands for climbing and maintain three points of contact."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Under what condition is it safe and legal to lean a firearm against a vehicle?",
+        "answers": [
+            {
+                "text": "It is always safe as long as the safety is on.",
+                "isCorrect": false,
+                "explanation": "The safety can fail, and leaning the firearm risks a fall and accidental discharge."
+            },
+            {
+                "text": "If the firearm is unloaded, action is open, and it is in a safe direction.",
+                "isCorrect": true,
+                "explanation": "Correct. While generally discouraged, if absolutely necessary for a brief moment, it must be unloaded, action open, and pointed in a safe direction."
+            },
+            {
+                "text": "Only if you are using the vehicle as a rest for a steady shot.",
+                "isCorrect": false,
+                "explanation": "Shooting from or across a vehicle is usually illegal."
+            },
+            {
+                "text": "Never; a firearm should always be encased in or on the vehicle.",
+                "isCorrect": false,
+                "explanation": "While best practice, the rules allow for brief uncased use outside the vehicle under certain conditions."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "When storing firearms at home, what is the most important legal requirement for ammunition?",
+        "answers": [
+            {
+                "text": "It must be kept in the same safe as the firearms.",
+                "isCorrect": false,
+                "explanation": "It must be locked up, but not necessarily in the same safe."
+            },
+            {
+                "text": "It must be stored in the original manufacturer's box.",
+                "isCorrect": false,
+                "explanation": "Keeping it organized is good, but not legally required."
+            },
+            {
+                "text": "It must be stored separately from the firearms and securely locked away.",
+                "isCorrect": true,
+                "explanation": "Correct. Both firearms and ammunition must be stored securely, and ammunition must be separated from the firearms."
+            },
+            {
+                "text": "It must be stored in a cool, dry place.",
+                "isCorrect": false,
+                "explanation": "This is a practical tip, not the legal requirement."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "What is the single most important safety check a hunter must perform before loading a rifle?",
+        "answers": [
+            {
+                "text": "Make sure the barrel is free of obstructions.",
+                "isCorrect": false,
+                "explanation": "This is crucial, but checking the ammunition caliber is the primary safety concern for loading."
+            },
+            {
+                "text": "Make sure the magazine is full of cartridges.",
+                "isCorrect": false,
+                "explanation": "The magazine doesn't need to be full."
+            },
+            {
+                "text": "Check that the caliber/gauge of the ammunition exactly matches the caliber stamped on the firearm barrel.",
+                "isCorrect": true,
+                "explanation": "Correct. Using the wrong ammunition can destroy the firearm and cause severe injury."
+            },
+            {
+                "text": "Make sure the telescopic sight is removed from the rifle.",
+                "isCorrect": false,
+                "explanation": "Scopes are meant to be used on the rifle."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Which of the following is an example of ammunition designed to be used with a muzzleloading firearm?",
+        "answers": [
+            {
+                "text": "A modern metallic cartridge (e.g., .30-06)",
+                "isCorrect": false,
+                "explanation": "Metallic cartridges are used in modern breech-loading rifles, not muzzleloaders."
+            },
+            {
+                "text": "Black powder and a projectile (e.g., patched round ball)",
+                "isCorrect": true,
+                "explanation": "Muzzleloaders use individual components—powder, a patch, and a projectile—loaded separately from the muzzle."
+            },
+            {
+                "text": "A shotgun slug",
+                "isCorrect": false,
+                "explanation": "A slug is part of a shotgun shell."
+            },
+            {
+                "text": "A rimfire cartridge (e.g., .22 LR)",
+                "isCorrect": false,
+                "explanation": "Rimfire cartridges are for modern rifles."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "What is the primary function of the action on a firearm?",
+        "answers": [
+            {
+                "text": "To reduce the recoil felt by the shooter.",
+                "isCorrect": false,
+                "explanation": "The stock and muzzle brake help with recoil, not the action."
+            },
+            {
+                "text": "To hold the firearm firmly to the shooter's shoulder.",
+                "isCorrect": false,
+                "explanation": "That is the job of the stock."
+            },
+            {
+                "text": "To load, fire, and eject a cartridge/shell.",
+                "isCorrect": true,
+                "explanation": "The action is the mechanical assembly that performs the essential functions of cycling the ammunition."
+            },
+            {
+                "text": "To help the hunter aim through magnification.",
+                "isCorrect": false,
+                "explanation": "That is the job of the scope or sights."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The stock of a firearm is designed to:",
+        "answers": [
+            {
+                "text": "Store extra ammunition",
+                "isCorrect": false,
+                "explanation": "The stock does not store ammunition."
+            },
+            {
+                "text": "Absorb recoil and provide a stable shooting platform",
+                "isCorrect": true,
+                "explanation": "The stock stabilizes the firearm and helps manage recoil safely and comfortably."
+            },
+            {
+                "text": "Fire the cartridge",
+                "isCorrect": false,
+                "explanation": "The firing pin and trigger mechanism fire the cartridge."
+            },
+            {
+                "text": "Reduce sound",
+                "isCorrect": false,
+                "explanation": "A sound moderator reduces sound."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "What is the function of a shotgun choke?",
+        "answers": [
+            {
+                "text": "To prevent the barrel from overheating.",
+                "isCorrect": false,
+                "explanation": "The barrel dissipates heat, the choke does not."
+            },
+            {
+                "text": "To adjust the spread (pattern) of the shot pellets.",
+                "isCorrect": true,
+                "explanation": "Correct. The choke is a constriction at the end of the barrel that determines how tightly the shot pattern holds together over distance."
+            },
+            {
+                "text": "To increase the velocity of the pellets.",
+                "isCorrect": false,
+                "explanation": "Velocity is determined by the load in the shell."
+            },
+            {
+                "text": "To cycle the action automatically.",
+                "isCorrect": false,
+                "explanation": "The action cycles the shells."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Why is visibility especially important during dawn and dusk hunting hours?",
+        "answers": [
+            {
+                "text": "Animals are easier to see in low light",
+                "isCorrect": false,
+                "explanation": "Animals are harder to see clearly in low light."
+            },
+            {
+                "text": "The human eye misjudges shapes and colors, increasing accident risk",
+                "isCorrect": true,
+                "explanation": "Low light causes visual distortion (often leading to mistaken identity); wearing bright visible clothing reduces this risk."
+            },
+            {
+                "text": "It keeps game animals calm",
+                "isCorrect": false,
+                "explanation": "Visibility has no effect on game calmness."
+            },
+            {
+                "text": "Blaze orange glows in the dark",
+                "isCorrect": false,
+                "explanation": "Blaze orange does not glow in the dark."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Which of the following arrow points is predominantly used for target practice and small game?",
+        "answers": [
+            {
+                "text": "Broadhead",
+                "isCorrect": false,
+                "explanation": "Broadheads are sharp, multi-bladed points used only for big game hunting."
+            },
+            {
+                "text": "Target or Field Point",
+                "isCorrect": true,
+                "explanation": "Correct. These points are conical and small, ideal for practice and minimizing damage to targets."
+            },
+            {
+                "text": "Judo Point",
+                "isCorrect": false,
+                "explanation": "Judo points are designed to prevent the arrow from getting lost in grass, often used for small game/stumping."
+            },
+            {
+                "text": "Blunt Point",
+                "isCorrect": false,
+                "explanation": "Blunt points are used for small game only, relying on kinetic shock."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "What is the purpose of the fletching (vanes/feathers) on an arrow?",
+        "answers": [
+            {
+                "text": "Gives the bow more potential energy.",
+                "isCorrect": false,
+                "explanation": "The bow itself holds the energy."
+            },
+            {
+                "text": "Stabilizes the arrow while in flight.",
+                "isCorrect": true,
+                "explanation": "The fletching catches the air and guides the arrow, causing it to spin slightly for stability, like a spin on a football."
+            },
+            {
+                "text": "Reduces friction when firing the arrow.",
+                "isCorrect": false,
+                "explanation": "Fletching *increases* drag, but this is necessary for stabilization."
+            },
+            {
+                "text": "Makes the arrow easier to find down range.",
+                "isCorrect": false,
+                "explanation": "While true, the primary purpose is stabilization."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "When should you attach your full-body safety harness to the tree?",
+        "answers": [
+            {
+                "text": "After sitting in the stand",
+                "isCorrect": false,
+                "explanation": "It's too late then! The safest rule is to be attached before your feet leave the ground."
+            },
+            {
+                "text": "Before leaving the ground",
+                "isCorrect": true,
+                "explanation": "You should use a lifeline or safety rope system to be attached from the moment you start climbing until you are back on the ground."
+            },
+            {
+                "text": "Only when hunting alone",
+                "isCorrect": false,
+                "explanation": "Safety harnesses must be worn by all hunters in elevated stands at all times."
+            },
+            {
+                "text": "When hauling your firearm up",
+                "isCorrect": false,
+                "explanation": "You must be attached *before* you start hauling anything up."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "How should your firearms and equipment be brought into a treestand?",
+        "answers": [
+            {
+                "text": "Thrown up by someone still on the ground.",
+                "isCorrect": false,
+                "explanation": "This is highly dangerous and unethical."
+            },
+            {
+                "text": "Using a haul line once having reached the top and secured a safety harness.",
+                "isCorrect": true,
+                "explanation": "Correct. The firearm must be unloaded and brought up using a haul line only after the hunter is safely secured in the stand."
+            },
+            {
+                "text": "Carried up while climbing into the stand.",
+                "isCorrect": false,
+                "explanation": "Carrying a firearm or bow while climbing compromises the critical 'three points of contact' rule."
+            },
+            {
+                "text": "Brought up while installing the treestand.",
+                "isCorrect": false,
+                "explanation": "Equipment should only be brought up when the hunter is ready to hunt, not during installation."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "What is legally required to hunt on private property in Alberta?",
+        "answers": [
+            {
+                "text": "Verbal permission from the landowner.",
+                "isCorrect": false,
+                "explanation": "Verbal permission is good, but **written** permission is often legally required and always preferred for proof."
+            },
+            {
+                "text": "Written permission from the landowner or resident.",
+                "isCorrect": true,
+                "explanation": "Correct! To protect yourself and respect the owner, written permission is the correct legal standard."
+            },
+            {
+                "text": "A phone call to Fish and Wildlife.",
+                "isCorrect": false,
+                "explanation": "You must deal directly with the property owner."
+            },
+            {
+                "text": "Nothing, if the land is not posted.",
+                "isCorrect": false,
+                "explanation": "Hunting on private property always requires permission."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "After harvesting a big game animal, the first legal requirement is to:",
+        "answers": [
+            {
+                "text": "Transport it immediately",
+                "isCorrect": false,
+                "explanation": "Tagging must happen before transport."
+            },
+            {
+                "text": "Take photos for documentation",
+                "isCorrect": false,
+                "explanation": "This is optional."
+            },
+            {
+                "text": "Properly affix and cut the tag before moving it",
+                "isCorrect": true,
+                "explanation": "In Alberta, you must immediately affix the tag to the carcass and cut the corresponding notches before moving the animal or field dressing it."
+            },
+            {
+                "text": "Gut the animal first",
+                "isCorrect": false,
+                "explanation": "Tagging comes before field dressing."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Which of the following is the best description of field dressing a harvested animal?",
+        "answers": [
+            {
+                "text": "Preparing the animal to be mounted.",
+                "isCorrect": false,
+                "explanation": "This is done by a taxidermist later."
+            },
+            {
+                "text": "Tagging the animal so it may be identified.",
+                "isCorrect": false,
+                "explanation": "Tagging is legally required, but it's a separate step."
+            },
+            {
+                "text": "Adding seasoning to the meat to help preserve it.",
+                "isCorrect": false,
+                "explanation": "Preserving is done with cooling or processing."
+            },
+            {
+                "text": "Removing the entrails from the body cavity to cool the meat.",
+                "isCorrect": true,
+                "explanation": "Correct. Field dressing immediately removes the internal organs to allow the meat to cool and prevent spoilage."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "What is the definition of Fair Chase in hunting ethics?",
+        "answers": [
+            {
+                "text": "Using bait and motorized vehicles to track and shoot animals.",
+                "isCorrect": false,
+                "explanation": "This is generally considered *un*fair chase."
+            },
+            {
+                "text": "Giving the game animal a reasonable chance to escape.",
+                "isCorrect": true,
+                "explanation": "Correct. Fair Chase is the ethical pursuit of game that does not put the hunter at an unfair advantage."
+            },
+            {
+                "text": "Only hunting during open season and following legal bag limits.",
+                "isCorrect": false,
+                "explanation": "This is the legal minimum; fair chase is an ethical standard beyond law."
+            },
+            {
+                "text": "Hunting only with a bow and arrow.",
+                "isCorrect": false,
+                "explanation": "Fair chase applies to all legal hunting methods."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Ethical hunters should always:",
+        "answers": [
+            {
+                "text": "Take a shot even if the animal is partially obscured",
+                "isCorrect": false,
+                "explanation": "Never take an obscured or risky shot that may lead to wounding loss."
+            },
+            {
+                "text": "Only harvest animals they can recover",
+                "isCorrect": true,
+                "explanation": "Ethics require hunters to make every effort to recover and use what they harvest. This means knowing your limits and the environment."
+            },
+            {
+                "text": "Use any method if the hunt is legal",
+                "isCorrect": false,
+                "explanation": "Ethics often go beyond what is legal. Fair chase is always required."
+            },
+            {
+                "text": "Fire until the animal stops moving",
+                "isCorrect": false,
+                "explanation": "This is excessive and unethical. A shot must be aimed to dispatch the animal quickly and humanely."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "If you observe illegal hunting or fishing activity (poaching), what should you do immediately?",
+        "answers": [
+            {
+                "text": "Confront the individual and tell them to stop.",
+                "isCorrect": false,
+                "explanation": "Never confront a suspected poacher; it can be dangerous."
+            },
+            {
+                "text": "Discreetly collect as much detail as possible (license plate, location, description) and call the Report-A-Poacher line.",
+                "isCorrect": true,
+                "explanation": "Excellent! Your safety is first. Observe, don't confront, and report the details to the authorities."
+            },
+            {
+                "text": "Wait until you get home and report it online later.",
+                "isCorrect": false,
+                "explanation": "Reporting immediately is crucial while details are fresh and the poacher is still present."
+            },
+            {
+                "text": "Take a picture of the poacher and post it online.",
+                "isCorrect": false,
+                "explanation": "This compromises the investigation and can be dangerous."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "If you take a shot and miss, what is the most responsible thing to do next?",
+        "answers": [
+            {
+                "text": "Immediately shoot again until you hit the animal",
+                "isCorrect": false,
+                "explanation": "This risks an unethical and unsafe shot."
+            },
+            {
+                "text": "Stop, mark the spot, and check for any sign of impact or injury",
+                "isCorrect": true,
+                "explanation": "Correct. Even when you think you missed, always check for evidence of a hit (blood, hair, tracks) to ensure ethical recovery."
+            },
+            {
+                "text": "Leave immediately to find another animal",
+                "isCorrect": false,
+                "explanation": "This violates the ethical obligation to recover game."
+            },
+            {
+                "text": "Wait until the next day to look",
+                "isCorrect": false,
+                "explanation": "A suspected wound requires immediate investigation."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "What should hunters and anglers do to help prevent the spread of invasive species?",
+        "answers": [
+            {
+                "text": "Rinse boats and gear with clean water and dry them before travel",
+                "isCorrect": true,
+                "explanation": "Correct. The 'Clean, Drain, Dry' motto is essential to prevent spreading invasive species like zebra mussels or whirling disease."
+            },
+            {
+                "text": "Only clean equipment in lakes or rivers",
+                "isCorrect": false,
+                "explanation": "Cleaning in waterbodies is how invasive species are spread."
+            },
+            {
+                "text": "Move baitfish between waterbodies",
+                "isCorrect": false,
+                "explanation": "This is illegal and a primary way invasive species spread."
+            },
+            {
+                "text": "Release leftover live bait into the wild",
+                "isCorrect": false,
+                "explanation": "This can introduce non-native species or disease."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "When visiting a shooting range, what is your primary ethical responsibility?",
+        "answers": [
+            {
+                "text": "To shoot as many targets as possible.",
+                "isCorrect": false,
+                "explanation": "Shooting volume is not the primary responsibility."
+            },
+            {
+                "text": "To follow all safety commands and clean up your brass/shells.",
+                "isCorrect": true,
+                "explanation": "Correct. Following commands from the Range Safety Officer (RSO) and cleaning up trash are the primary duties for maintaining a safe and respectful environment."
+            },
+            {
+                "text": "To only shoot when the range is totally empty.",
+                "isCorrect": false,
+                "explanation": "Ranges often have multiple users; safety rules guide shared space."
+            },
+            {
+                "text": "To bring a large variety of different firearms to test.",
+                "isCorrect": false,
+                "explanation": "This is a personal goal, not an ethical responsibility."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "What is the ethical responsibility of a hunter toward a landowner's fences and gates?",
+        "answers": [
+            {
+                "text": "Always leave gates open to prevent wear and tear.",
+                "isCorrect": false,
+                "explanation": "Leaving gates open can let livestock out."
+            },
+            {
+                "text": "Cut fences that block your path for quicker movement.",
+                "isCorrect": false,
+                "explanation": "This is illegal and unethical destruction of property."
+            },
+            {
+                "text": "Leave gates exactly as you found them (open if open, closed if closed).",
+                "isCorrect": true,
+                "explanation": "Correct. Respecting the landowner's property means leaving things as you found them to manage livestock and prevent damage."
+            },
+            {
+                "text": "Only use gates clearly marked for public access.",
+                "isCorrect": false,
+                "explanation": "Private land access requires permission, regardless of posting."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "When lost in the wilderness, your first step should be to:",
+        "answers": [
+            {
+                "text": "Keep walking until you find a road",
+                "isCorrect": false,
+                "explanation": "Walking while stressed often leads to walking in circles."
+            },
+            {
+                "text": "Fire three shots",
+                "isCorrect": false,
+                "explanation": "Signaling comes after planning."
+            },
+            {
+                "text": "Sit down, calm yourself, and plan (S.T.O.P.)",
+                "isCorrect": true,
+                "explanation": "The **S.T.O.P.** principle (**S**top, **T**hink, **O**bserve, **P**lan) helps avoid panic and guides safe action."
+            },
+            {
+                "text": "Build a shelter right away",
+                "isCorrect": false,
+                "explanation": "Planning must come before action."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "What is the best way to signal for help if you are lost or injured in an area where your phone doesn't work?",
+        "answers": [
+            {
+                "text": "Shouting as loud as you can until someone hears you.",
+                "isCorrect": false,
+                "explanation": "Shouting wastes energy quickly."
+            },
+            {
+                "text": "Lighting a large, smoky signal fire, or using three signal shots/blasts.",
+                "isCorrect": true,
+                "explanation": "The international distress signal is **three** of anything (fires, whistle blasts, shots) repeated at regular intervals."
+            },
+            {
+                "text": "Leaving a note attached to a tree.",
+                "isCorrect": false,
+                "explanation": "A note will likely not be found in time."
+            },
+            {
+                "text": "Walking continuously in one direction until you find a road.",
+                "isCorrect": false,
+                "explanation": "This can lead you further into danger or exhaustion."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "What is the proper way to use a mirror or whistle for an emergency signal?",
+        "answers": [
+            {
+                "text": "Flash or sound the signal **three times** in quick succession, followed by a pause.",
+                "isCorrect": true,
+                "explanation": "Correct. The international distress signal is three flashes/blasts, followed by a break, then repeating the pattern."
+            },
+            {
+                "text": "Hold the mirror steady for ten minutes or blow the whistle once loudly.",
+                "isCorrect": false,
+                "explanation": "Signals must be repeated in bursts."
+            },
+            {
+                "text": "Use the mirror to look for smoke from a fire.",
+                "isCorrect": false,
+                "explanation": "The mirror is for signaling aircraft or distant searchers."
+            },
+            {
+                "text": "Use the whistle to scare away animals.",
+                "isCorrect": false,
+                "explanation": "Whistles should be used for signaling human rescuers."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "When you approach an injured person in the woods, what is the first step in giving First Aid (according to the D.R.S.A.B.C.D. sequence)?",
+        "answers": [
+            {
+                "text": "Check for a pulse and breathing (B).",
+                "isCorrect": false,
+                "explanation": "This comes later. You must ensure safety first."
+            },
+            {
+                "text": "Check the scene for Danger (D).",
+                "isCorrect": true,
+                "explanation": "Correct! **D**anger is always the first step. Never put yourself in danger to help another person."
+            },
+            {
+                "text": "Call for help (S).",
+                "isCorrect": false,
+                "explanation": "This comes after checking the scene."
+            },
+            {
+                "text": "Check for a response (R).",
+                "isCorrect": false,
+                "explanation": "This comes after checking the scene for danger."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "What is the most reliable method for purifying water from an unknown source in a wilderness survival situation?",
+        "answers": [
+            {
+                "text": "Running it through a clean cloth.",
+                "isCorrect": false,
+                "explanation": "Filtering only removes sediment; it doesn't kill bacteria or viruses."
+            },
+            {
+                "text": "Boiling the water vigorously for at least one minute.",
+                "isCorrect": true,
+                "explanation": "Boiling is the most reliable method, as it kills virtually all pathogens (bacteria, viruses, and protozoa)."
+            },
+            {
+                "text": "Adding salt or sugar to the water.",
+                "isCorrect": false,
+                "explanation": "This does nothing to purify it."
+            },
+            {
+                "text": "Freezing it overnight.",
+                "isCorrect": false,
+                "explanation": "Freezing only slows bacteria growth; it doesn't purify."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "Which two tools are essential for navigation that work regardless of batteries or phone service?",
+        "answers": [
+            {
+                "text": "GPS and Satellite Phone",
+                "isCorrect": false,
+                "explanation": "These rely on batteries/service and are not reliable long-term."
+            },
+            {
+                "text": "Map and Compass",
+                "isCorrect": true,
+                "explanation": "Correct. A map and compass are the fundamental survival tools for navigation that do not require power and should be carried on every trip."
+            },
+            {
+                "text": "A whistle and a signal mirror",
+                "isCorrect": false,
+                "explanation": "These are signaling tools, not navigational tools."
+            },
+            {
+                "text": "Trail markers and flares",
+                "isCorrect": false,
+                "explanation": "These are signaling tools."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "What is the most effective clothing strategy to prevent hypothermia?",
+        "answers": [
+            {
+                "text": "Wearing a single, thick, heavy coat.",
+                "isCorrect": false,
+                "explanation": "A single layer makes it hard to regulate temperature."
+            },
+            {
+                "text": "Wearing several layers that can be adjusted to match activity and weather.",
+                "isCorrect": true,
+                "explanation": "Correct. Layering allows you to add or remove clothing to prevent sweating (which leads to cooling) and maintain a stable body temperature."
+            },
+            {
+                "text": "Wearing only cotton clothing because it's breathable.",
+                "isCorrect": false,
+                "explanation": "Cotton retains moisture and causes rapid cooling (often called 'death cloth')."
+            },
+            {
+                "text": "Wearing only a windbreaker.",
+                "isCorrect": false,
+                "explanation": "A windbreaker doesn't provide enough insulation."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "If a survival situation requires you to start a fire in damp conditions, what is the best natural material to use as tinder (fire starter)?",
+        "answers": [
+            {
+                "text": "Large, damp logs.",
+                "isCorrect": false,
+                "explanation": "Logs are used for fuel, not tinder, and dampness makes them useless for starting."
+            },
+            {
+                "text": "Green moss or fresh grass.",
+                "isCorrect": false,
+                "explanation": "These are wet and will not ignite easily."
+            },
+            {
+                "text": "Dried inner bark, bird nests, or dry cedar shavings.",
+                "isCorrect": true,
+                "explanation": "Correct. Tinder must be very fine and bone-dry to catch a spark, such as the inner bark of a dead tree or finely shaved wood."
+            },
+            {
+                "text": "Pine cones.",
+                "isCorrect": false,
+                "explanation": "Pine cones are good kindling, but usually too dense to catch a spark easily."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "Which of the following predatory animals typically has a more powerful build, broader head, and larger feet, making it distinct from a coyote?",
+        "answers": [
+            {
+                "text": "Fox",
+                "isCorrect": false,
+                "explanation": "Foxes are much smaller than both wolves and coyotes."
+            },
+            {
+                "text": "Wolf",
+                "isCorrect": true,
+                "explanation": "Correct. Wolves are significantly larger, heavier, and have broader muzzles and larger feet than the slender coyote."
+            },
+            {
+                "text": "Coyote",
+                "isCorrect": false,
+                "explanation": "The coyote is smaller and more slender compared to the wolf."
+            },
+            {
+                "text": "Cougar",
+                "isCorrect": false,
+                "explanation": "Cougars are felines, not canines."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Which physical feature is the clearest indicator to help distinguish a Grizzly Bear from a Black Bear?",
+        "answers": [
+            {
+                "text": "Coat color (Grizzlies are always brown)",
+                "isCorrect": false,
+                "explanation": "Black bears can also be brown, so color is unreliable."
+            },
+            {
+                "text": "A pronounced shoulder hump and longer front claws.",
+                "isCorrect": true,
+                "explanation": "Correct. The large, muscular shoulder hump and long, straight claws are defining features of a Grizzly Bear."
+            },
+            {
+                "text": "Black bears are much larger in size.",
+                "isCorrect": false,
+                "explanation": "Grizzlies are generally much larger and heavier."
+            },
+            {
+                "text": "Grizzlies have long, pointed ears.",
+                "isCorrect": false,
+                "explanation": "Black bears typically have taller, more pointed ears."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Which Alberta bird makes a “drumming” sound by beating its wings on a log during spring mating?",
+        "answers": [
+            {
+                "text": "Sharp-tailed Grouse",
+                "isCorrect": false,
+                "explanation": "Sharp-tailed Grouse perform an elaborate dancing display."
+            },
+            {
+                "text": "Ruffed Grouse",
+                "isCorrect": true,
+                "explanation": "The male Ruffed Grouse makes a distinctive drumming sound to attract females and mark territory."
+            },
+            {
+                "text": "Ptarmigan",
+                "isCorrect": false,
+                "explanation": "Ptarmigan are alpine birds that primarily make cackling or crowing calls."
+            },
+            {
+                "text": "Spruce Grouse",
+                "isCorrect": false,
+                "explanation": "Spruce Grouse are quiet birds that rely on camouflage."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Which of these animals is the largest member of the deer family (Cervidae)?",
+        "answers": [
+            {
+                "text": "Elk (Wapiti)",
+                "isCorrect": false,
+                "explanation": "Elk are large, but the Moose is significantly bigger."
+            },
+            {
+                "text": "Moose",
+                "isCorrect": true,
+                "explanation": "The Moose is the largest species in the deer family, known for its massive size and palmate antlers."
+            },
+            {
+                "text": "Caribou",
+                "isCorrect": false,
+                "explanation": "Caribou are smaller than both Moose and Elk."
+            },
+            {
+                "text": "Mule Deer",
+                "isCorrect": false,
+                "explanation": "Mule Deer are the smallest of these four."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Which deer species is known for flashing the bright white underside of its tail ('flagging') as it runs away?",
+        "answers": [
+            {
+                "text": "Mule Deer",
+                "isCorrect": false,
+                "explanation": "Mule deer have a smaller, black-tipped tail that they typically carry down."
+            },
+            {
+                "text": "White-Tailed Deer",
+                "isCorrect": true,
+                "explanation": "That's right! The White-Tailed Deer lifts its bushy, white-underside tail as a warning signal when running."
+            },
+            {
+                "text": "Moose",
+                "isCorrect": false,
+                "explanation": "Moose have a very small, dark tail."
+            },
+            {
+                "text": "Elk (Wapiti)",
+                "isCorrect": false,
+                "explanation": "Elk have a pale rump patch but do not 'flag' their tail."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Which large Alberta game animal is known for having huge, wide, paddle-shaped (palmate) antlers?",
+        "answers": [
+            {
+                "text": "Moose",
+                "isCorrect": true,
+                "explanation": "Correct! The Moose's massive, palmate antlers are its signature feature."
+            },
+            {
+                "text": "Elk (Wapiti)",
+                "isCorrect": false,
+                "explanation": "Elk have long, branched antlers, not the wide paddle shape."
+            },
+            {
+                "text": "Bighorn Sheep",
+                "isCorrect": false,
+                "explanation": "Bighorn Sheep have large, curled horns, not antlers."
+            },
+            {
+                "text": "Caribou",
+                "isCorrect": false,
+                "explanation": "Caribou antlers are branched and complex, but not wide paddles like a Moose's."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "What unusual feature distinguishes Caribou from all other species of the deer family (Cervidae)?",
+        "answers": [
+            {
+                "text": "They are the only deer species that sheds their velvet annually.",
+                "isCorrect": false,
+                "explanation": "All deer species shed velvet annually."
+            },
+            {
+                "text": "Both males and females typically grow antlers.",
+                "isCorrect": true,
+                "explanation": "Correct. Caribou (reindeer) are the only species in the deer family where both the male and the female typically grow antlers."
+            },
+            {
+                "text": "They are the only species that lives below the timberline.",
+                "isCorrect": false,
+                "explanation": "All species mentioned live below the timberline at some point."
+            },
+            {
+                "text": "They only eat moss and lichens in the winter.",
+                "isCorrect": false,
+                "explanation": "Their diet is more diverse than just moss and lichens."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Which type of waterfowl usually dips its head and body underwater to feed, leaving its tail sticking up?",
+        "answers": [
+            {
+                "text": "Diving ducks (e.g., goldeneye, scaup)",
+                "isCorrect": false,
+                "explanation": "Diving ducks disappear completely underwater."
+            },
+            {
+                "text": "Geese",
+                "isCorrect": false,
+                "explanation": "Geese typically graze on land or dabble near the surface."
+            },
+            {
+                "text": "Dabbling ducks (e.g., Mallard, Pintail)",
+                "isCorrect": true,
+                "explanation": "Correct. Dabbling ducks feed by tipping their body forward, or 'dabbling,' in shallow water."
+            },
+            {
+                "text": "Loons",
+                "isCorrect": false,
+                "explanation": "Loons are diving birds that hunt deep underwater."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "In Alberta, what distinguishes a lawful bull Moose from a cow Moose during a general hunting season?",
+        "answers": [
+            {
+                "text": "The bull must have antlers wider than 10 cm (4 inches).",
+                "isCorrect": false,
+                "explanation": "Antler width is a requirement for certain Elk or White-Tailed Deer hunts, but Moose regulations often use antler size and shape."
+            },
+            {
+                "text": "The bull must have antlers with at least one branch point.",
+                "isCorrect": false,
+                "explanation": "This is a common feature but not the universal legal distinction for a bull Moose."
+            },
+            {
+                "text": "The bull must have antlers with at least one visible brow tine, or a set of antlers of a defined minimum size.",
+                "isCorrect": true,
+                "explanation": "Correct. Legal definitions for a bull Moose often require a minimum antler width, number of points, or the presence of specific tines, depending on the Wildlife Management Unit (WMU)."
+            },
+            {
+                "text": "The bull is always larger than the cow.",
+                "isCorrect": false,
+                "explanation": "Size is not a legal determinant."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "What is the key difference between a Mule Deer and a White-Tailed Deer when identifying them by their ears and tail?",
+        "answers": [
+            {
+                "text": "Mule Deer have smaller ears and flag a large white tail when running.",
+                "isCorrect": false,
+                "explanation": "White-Tailed Deer have the flagging white tail."
+            },
+            {
+                "text": "White-Tailed Deer have large, mule-like ears and a small black-tipped tail.",
+                "isCorrect": false,
+                "explanation": "Mule Deer have the large ears and the black-tipped tail."
+            },
+            {
+                "text": "Mule Deer have large, mule-like ears and a small black-tipped tail that is not flagged.",
+                "isCorrect": true,
+                "explanation": "Correct. The large ears and dark, rope-like tail distinguish the Mule Deer from the White-Tailed Deer's smaller ears and large, bushy white flag."
+            },
+            {
+                "text": "They cannot be distinguished by tail or ears alone.",
+                "isCorrect": false,
+                "explanation": "These are the key distinguishing features."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "The primary goal of wildlife management is to:",
+        "answers": [
+            {
+                "text": "Produce trophy animals for hunters",
+                "isCorrect": false,
+                "explanation": "This is a minor benefit, not the primary goal."
+            },
+            {
+                "text": "Maintain healthy, balanced populations in their habitat",
+                "isCorrect": true,
+                "explanation": "Correct. Wildlife management ensures populations stay within the habitat’s carrying capacity and are healthy."
+            },
+            {
+                "text": "Limit animal reproduction",
+                "isCorrect": false,
+                "explanation": "Management aims for balance, not just limits."
+            },
+            {
+                "text": "Increase hunting license sales",
+                "isCorrect": false,
+                "explanation": "Sales fund management, but are not the goal itself."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "What is the primary purpose of government-set bag limits and hunting seasons?",
+        "answers": [
+            {
+                "text": "To prevent hunters from spending too much time in the field.",
+                "isCorrect": false,
+                "explanation": "It's about the wildlife, not the hunters' time."
+            },
+            {
+                "text": "To increase the cost of hunting licenses.",
+                "isCorrect": false,
+                "explanation": "This is a revenue method, not the primary biological purpose."
+            },
+            {
+                "text": "To manage wildlife populations, prevent overharvesting, and maintain a healthy ecosystem balance.",
+                "isCorrect": true,
+                "explanation": "Correct! Bag limits ensure that harvest levels are sustainable and protect wildlife populations."
+            },
+            {
+                "text": "To make wildlife reproduce faster.",
+                "isCorrect": false,
+                "explanation": "Limits manage the harvest, not the reproduction rate."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "Carrying Capacity in wildlife management refers to:",
+        "answers": [
+            {
+                "text": "The maximum number of hunters an area can support.",
+                "isCorrect": false,
+                "explanation": "Carrying capacity refers to the animals, not the people."
+            },
+            {
+                "text": "The maximum size of a single animal in a species.",
+                "isCorrect": false,
+                "explanation": "This is about population size, not physical size."
+            },
+            {
+                "text": "The maximum number of animals of a species that a habitat can sustain indefinitely.",
+                "isCorrect": true,
+                "explanation": "That's the definition! It's the maximum sustainable population given the resources available in that area."
+            },
+            {
+                "text": "The average weight of an adult deer.",
+                "isCorrect": false,
+                "explanation": "This is about population size, not weight."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "How do hunters primarily contribute to wildlife conservation funding?",
+        "answers": [
+            {
+                "text": "By physically building wildlife habitats.",
+                "isCorrect": false,
+                "explanation": "Hunters sometimes do this, but it's not the primary financial contribution."
+            },
+            {
+                "text": "Through the purchase of hunting licenses, tags, and excise taxes on equipment.",
+                "isCorrect": true,
+                "explanation": "Yes! License fees are the main source of funding for most wildlife management and conservation programs."
+            },
+            {
+                "text": "By feeding wild animals in winter.",
+                "isCorrect": false,
+                "explanation": "Feeding wildlife is generally discouraged."
+            },
+            {
+                "text": "By lobbying the government for tax breaks.",
+                "isCorrect": false,
+                "explanation": "The money comes from purchases, not political lobbying."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "What does the term Wounding Loss refer to in hunting?",
+        "answers": [
+            {
+                "text": "The loss of money spent on hunting equipment.",
+                "isCorrect": false,
+                "explanation": "Wounding loss refers to the animal resource."
+            },
+            {
+                "text": "An animal that is shot but escapes and is never recovered by the hunter.",
+                "isCorrect": true,
+                "explanation": "Correct. This is the tragic and unethical loss of a game animal that was killed but not found and utilized."
+            },
+            {
+                "text": "The financial penalty for shooting the wrong species.",
+                "isCorrect": false,
+                "explanation": "That is a fine."
+            },
+            {
+                "text": "The loss of meat during field dressing.",
+                "isCorrect": false,
+                "explanation": "This is normal meat wastage, not wounding loss."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "Why is it important to record and report hunter observations (like wildlife sightings or track counts) to Fish and Wildlife?",
+        "answers": [
+            {
+                "text": "So the government can track successful hunters for taxes.",
+                "isCorrect": false,
+                "explanation": "This is not the purpose of wildlife reporting."
+            },
+            {
+                "text": "To help researchers and biologists monitor animal health, movements, and population trends.",
+                "isCorrect": true,
+                "explanation": "Correct. Hunters provide invaluable ground-level data that informs wildlife management decisions."
+            },
+            {
+                "text": "To prove you were in a specific area on a certain date.",
+                "isCorrect": false,
+                "explanation": "This is personal record-keeping, not the goal of the reporting program."
+            },
+            {
+                "text": "To claim a reward for finding a rare animal.",
+                "isCorrect": false,
+                "explanation": "Reporting is a required contribution to conservation, not a reward program."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "The largest upland game bird found in Alberta is the:",
+        "answers": [
+            {
+                "text": "ptarmigan",
+                "isCorrect": false,
+                "explanation": "Ptarmigan are alpine birds, not the largest."
+            },
+            {
+                "text": "sage grouse",
+                "isCorrect": true,
+                "explanation": "Correct. The sage grouse is the largest upland game bird in Alberta."
+            },
+            {
+                "text": "male pheasant",
+                "isCorrect": false,
+                "explanation": "Pheasants are large, but not the largest."
+            },
+            {
+                "text": "female pheasant",
+                "isCorrect": false,
+                "explanation": "Pheasants are large, but not the largest."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "One of the differences between native game birds and introduced game birds is that ONLY native birds have:",
+        "answers": [
+            {
+                "text": "spurs on their legs",
+                "isCorrect": false,
+                "explanation": "Introduced pheasants have spurs."
+            },
+            {
+                "text": "feathered legs and feathered nostrils",
+                "isCorrect": true,
+                "explanation": "Correct. Native grouse (like ptarmigan, ruffed grouse) have this adaptation for cold."
+            },
+            {
+                "text": "brightly colored wing patches",
+                "isCorrect": false,
+                "explanation": "Many birds have this."
+            },
+            {
+                "text": "females are protected from hunting",
+                "isCorrect": false,
+                "explanation": "This varies by species, but isn't a rule for all native birds."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "You would MOST likely find the Hungarian partridge in which habitat:",
+        "answers": [
+            {
+                "text": "alpine meadows",
+                "isCorrect": false,
+                "explanation": "This is ptarmigan habitat."
+            },
+            {
+                "text": "around rock slides in the mountains",
+                "isCorrect": false,
+                "explanation": "This is not typical partridge habitat."
+            },
+            {
+                "text": "in a stand of spruce or pine trees",
+                "isCorrect": false,
+                "explanation": "This is grouse habitat."
+            },
+            {
+                "text": "around cultivated fields and farms",
+                "isCorrect": true,
+                "explanation": "Correct. Hungarian partridge (or 'Huns') thrive in agricultural and grassland areas."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "White-fronted geese are commonly known as:",
+        "answers": [
+            {
+                "text": "snow geese",
+                "isCorrect": false,
+                "explanation": "Snow geese are a different species."
+            },
+            {
+                "text": "waives",
+                "isCorrect": false,
+                "explanation": "This term usually refers to snow geese."
+            },
+            {
+                "text": "speckle-bellies",
+                "isCorrect": true,
+                "explanation": "Correct. They get this name from the black bars on their breast."
+            },
+            {
+                "text": "lesser Canada geese",
+                "isCorrect": false,
+                "explanation": "These are a subspecies of Canada goose."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Ducks that patter along the water's surface before takeoff are:",
+        "answers": [
+            {
+                "text": "diving ducks",
+                "isCorrect": true,
+                "explanation": "Correct. Divers need a running start on the water to get airborne."
+            },
+            {
+                "text": "puddle ducks",
+                "isCorrect": false,
+                "explanation": "Puddle ducks (dabblers) can spring directly into the air."
+            },
+            {
+                "text": "ducklings",
+                "isCorrect": false,
+                "explanation": "Ducklings cannot fly."
+            },
+            {
+                "text": "in eclipse plumage",
+                "isCorrect": false,
+                "explanation": "Plumage doesn't determine takeoff method."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "All ducks:",
+        "answers": [
+            {
+                "text": "fly in a 'V' formation when migrating",
+                "isCorrect": false,
+                "explanation": "Geese are famous for this, but not all ducks."
+            },
+            {
+                "text": "have the same color of wing speculum",
+                "isCorrect": false,
+                "explanation": "The speculum color is a key identifier and varies (e.g., green on mallards, blue on pintails)."
+            },
+            {
+                "text": "need water to survive",
+                "isCorrect": true,
+                "explanation": "Correct. As waterfowl, water is essential for their habitat, food, and survival."
+            },
+            {
+                "text": "primary food source is vegetable matter or grains",
+                "isCorrect": false,
+                "explanation": "Diving ducks also eat fish, mollusks, and insects."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Which of the following does not drop or shed its horns or antlers each year:",
+        "answers": [
+            {
+                "text": "mule deer",
+                "isCorrect": false,
+                "explanation": "Deer shed their antlers annually."
+            },
+            {
+                "text": "elk",
+                "isCorrect": false,
+                "explanation": "Elk shed their antlers annually."
+            },
+            {
+                "text": "moose",
+                "isCorrect": false,
+                "explanation": "Moose shed their antlers annually."
+            },
+            {
+                "text": "bighorn sheep",
+                "isCorrect": true,
+                "explanation": "Correct. Bighorn sheep have horns, which are permanent and grow throughout their life."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "Grizzly bears are:",
+        "answers": [
+            {
+                "text": "Not hunted as hunting is currently under review",
+                "isCorrect": true,
+                "explanation": "Correct. As of recent regulations, the grizzly bear hunt in Alberta is suspended."
+            },
+            {
+                "text": "hunted only in the Fall before hibernation",
+                "isCorrect": false,
+                "explanation": "The hunt is currently suspended."
+            },
+            {
+                "text": "hunted both in the Fall and Spring",
+                "isCorrect": false,
+                "explanation": "The hunt is currently suspended."
+            },
+            {
+                "text": "not found in Alberta",
+                "isCorrect": false,
+                "explanation": "Grizzly bears are found in the mountain and foothill regions of Alberta."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "A large carnivore you may hunt using dogs to help is a:",
+        "answers": [
+            {
+                "text": "grizzly bear",
+                "isCorrect": false,
+                "explanation": "This is not legal or ethical."
+            },
+            {
+                "text": "wolf",
+                "isCorrect": false,
+                "explanation": "Hunting wolves with dogs is not a standard legal practice in Alberta."
+            },
+            {
+                "text": "cougar",
+                "isCorrect": true,
+                "explanation": "Correct. Hounds are often used to track and tree cougars, which is a legal method."
+            },
+            {
+                "text": "wolverine",
+                "isCorrect": false,
+                "explanation": "Wolverine are typically trapped, not hunted with dogs."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "The most common member of the wild dog family found in Alberta is the:",
+        "answers": [
+            {
+                "text": "red fox",
+                "isCorrect": false,
+                "explanation": "Foxes are common, but not the most common."
+            },
+            {
+                "text": "coyote",
+                "isCorrect": true,
+                "explanation": "Correct. Coyotes are highly adaptable and the most common and widespread wild canid in the province."
+            },
+            {
+                "text": "arctic fox",
+                "isCorrect": false,
+                "explanation": "Arctic foxes are only found in the far north, not common in Alberta."
+            },
+            {
+                "text": "wolf",
+                "isCorrect": false,
+                "explanation": "Wolves are present, but in much smaller numbers and specific areas compared to coyotes."
+            }
+        ],
+        "category": "Wildlife ID"
+    },
+    {
+        "question": "In a disagreement with other hunters, an ethical hunter:",
+        "answers": [
+            {
+                "text": "asks the hunters to leave the area",
+                "isCorrect": false,
+                "explanation": "This is confrontational and not ethical."
+            },
+            {
+                "text": "interferes with their hunt",
+                "isCorrect": false,
+                "explanation": "This is unethical and potentially illegal (hunter harassment)."
+            },
+            {
+                "text": "suggests they consult law enforcement officials",
+                "isCorrect": false,
+                "explanation": "This escalates the situation. Compromise is the first step."
+            },
+            {
+                "text": "tries to work out a compromise",
+                "isCorrect": true,
+                "explanation": "Correct. An ethical hunter is respectful and tries to find a peaceful solution."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Leaving a hunting trip plan and return date with those at home is an example of:",
+        "answers": [
+            {
+                "text": "admitting not being prepared for a successful trip",
+                "isCorrect": false,
+                "explanation": "It is a key part of *being* prepared."
+            },
+            {
+                "text": "a cause to worry by those at home",
+                "isCorrect": false,
+                "explanation": "It gives them peace of mind and a clear plan if you're overdue."
+            },
+            {
+                "text": "respect for oneself and others",
+                "isCorrect": true,
+                "explanation": "Correct. It's respectful to those at home and a crucial safety step for yourself."
+            },
+            {
+                "text": "a useless planning detail",
+                "isCorrect": false,
+                "explanation": "It is one of the most important safety steps you can take."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "The most USED part of any wildlife habitat has:",
+        "answers": [
+            {
+                "text": "the heaviest cover",
+                "isCorrect": false,
+                "explanation": "Animals need more than just cover."
+            },
+            {
+                "text": "open areas where danger can be seen",
+                "isCorrect": false,
+                "explanation": "Animals need more than just open areas."
+            },
+            {
+                "text": "land bordering large bodies of water",
+                "isCorrect": false,
+                "explanation": "This is one type of edge, but not the only one."
+            },
+            {
+                "text": "a variety of edge affect arranged close to each other",
+                "isCorrect": true,
+                "explanation": "Correct. 'Edge effect'—where different habitats meet—provides food, cover, and water in close proximity."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "From a wildlife management point of view, hunting seasons are held in the Fall PRIMARILY because:",
+        "answers": [
+            {
+                "text": "wildlife populations are near their highest levels",
+                "isCorrect": true,
+                "explanation": "Correct. The young of the year have been born, and the population is at its annual peak."
+            },
+            {
+                "text": "game meat keeps better in cool weather",
+                "isCorrect": false,
+                "explanation": "This is a benefit, but not the primary management reason."
+            },
+            {
+                "text": "female animals are not pregnant",
+                "isCorrect": false,
+                "explanation": "This is a consideration, but the population level is the main driver."
+            },
+            {
+                "text": "fewer non-hunters use the land at that time",
+                "isCorrect": false,
+                "explanation": "Fall is a popular time for many outdoor activities."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "An ethical hunter respects wildlife. What should he do?",
+        "answers": [
+            {
+                "text": "shoot repeatedly at a flock of birds",
+                "isCorrect": false,
+                "explanation": "This is unethical flock-shooting and leads to wounding loss."
+            },
+            {
+                "text": "display dead game while traveling down the highway",
+                "isCorrect": false,
+                "explanation": "This is disrespectful to the animal and offensive to non-hunters."
+            },
+            {
+                "text": "leave an animal's gut pile in full view of a major road",
+                "isCorrect": false,
+                "explanation": "This is disrespectful and can attract scavengers to roadsides."
+            },
+            {
+                "text": "get close enough to his quarry to ensure a quick, clean kill",
+                "isCorrect": true,
+                "explanation": "Correct. Marksmanship and a quick, humane kill are signs of respect for the animal."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "When coming to a grazing lease where you plan to hunt, you enter:",
+        "answers": [
+            {
+                "text": "after asking permission",
+                "isCorrect": true,
+                "explanation": "Correct. A grazing lease is private land or public land leased to a private individual. You must always get permission."
+            },
+            {
+                "text": "only if there is no livestock",
+                "isCorrect": false,
+                "explanation": "You still need permission, even if you don't see livestock."
+            },
+            {
+                "text": "if you see others hunting",
+                "isCorrect": false,
+                "explanation": "They may have permission, but you do not."
+            },
+            {
+                "text": "because the law allows it",
+                "isCorrect": false,
+                "explanation": "The law requires you to get permission."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "To help non-hunters understand and appreciate hunting more, each hunter should:",
+        "answers": [
+            {
+                "text": "tell non-hunters to leave the area when hunters are present",
+                "isCorrect": false,
+                "explanation": "This is confrontational and unethical."
+            },
+            {
+                "text": "try to convince non-hunters that they are wrong",
+                "isCorrect": false,
+                "explanation": "Arguing is not productive."
+            },
+            {
+                "text": "respect the property and rights of others while hunting",
+                "isCorrect": true,
+                "explanation": "Correct. Being a good ambassador for hunting by being respectful is the best approach."
+            },
+            {
+                "text": "speak out against anti-hunting groups",
+                "isCorrect": false,
+                "explanation": "This is a political action, not a personal, ethical one that helps non-hunters appreciate hunting."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "An ethical hunter obeys all game laws and:",
+        "answers": [
+            {
+                "text": "respects the rights and beliefs of non-hunters",
+                "isCorrect": false,
+                "explanation": "This is true, but 'all of the above' is a better choice."
+            },
+            {
+                "text": "never shoots at a running deer",
+                "isCorrect": false,
+                "explanation": "This is a good personal ethic, but 'all of the above' is better."
+            },
+            {
+                "text": "always asks for permission to hunt on private property",
+                "isCorrect": false,
+                "explanation": "This is a law, but 'all of the above' is better."
+            },
+            {
+                "text": "all of the above",
+                "isCorrect": true,
+                "explanation": "Correct. Ethics go beyond just the law and include respect for others and personal codes."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "An inventory, or count, of an animal population in a specific given area is done:",
+        "answers": [
+            {
+                "text": "only during the Spring, after the young are born",
+                "isCorrect": false,
+                "explanation": "Counts are often done in winter (from the air) when animals are grouped and visible."
+            },
+            {
+                "text": "once every year",
+                "isCorrect": false,
+                "explanation": "This varies based on species and management needs."
+            },
+            {
+                "text": "to estimate the potential surplus population",
+                "isCorrect": true,
+                "explanation": "Correct. The goal is to see how many animals the habitat supports and what the surplus is."
+            },
+            {
+                "text": "the same way for all species",
+                "isCorrect": false,
+                "explanation": "Methods differ greatly (e.g., aerial counts for moose vs. pellet counts for deer)."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "Sport hunting is:",
+        "answers": [
+            {
+                "text": "an effective tool of wildlife management",
+                "isCorrect": true,
+                "explanation": "Correct. It is a tool used to control populations, fund conservation, and manage habitat."
+            },
+            {
+                "text": "a threat to some animal species",
+                "isCorrect": false,
+                "explanation": "Regulated hunting is not a threat; poaching is. Regulated hunting *saves* species by funding their management."
+            },
+            {
+                "text": "a threat to the strongest animals in a population",
+                "isCorrect": false,
+                "explanation": "Predators often take the young and weak; hunting can sometimes take prime animals, but this is managed."
+            },
+            {
+                "text": "an effective way to change wildlife habitats",
+                "isCorrect": false,
+                "explanation": "Hunting manages animals, not the habitat itself (though funding from it does)."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "Wildlife survival depends PRIMARILY upon:",
+        "answers": [
+            {
+                "text": "forest succession",
+                "isCorrect": false,
+                "explanation": "This is one factor, but not the primary one."
+            },
+            {
+                "text": "good habitat",
+                "isCorrect": true,
+                "explanation": "Correct. Habitat (food, water, cover, space) is the single most important factor for wildlife survival."
+            },
+            {
+                "text": "protection from predators",
+                "isCorrect": false,
+                "explanation": "Predation is a natural part of the ecosystem."
+            },
+            {
+                "text": "supplemental feeding programs",
+                "isCorrect": false,
+                "explanation": "These are rarely used and not a long-term solution."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "Game animals are a natural resource that:",
+        "answers": [
+            {
+                "text": "can be stockpiled from year to year",
+                "isCorrect": false,
+                "explanation": "They cannot be stockpiled; they will die of other causes (disease, starvation) if not harvested."
+            },
+            {
+                "text": "is non-renewable",
+                "isCorrect": false,
+                "explanation": "They are renewable."
+            },
+            {
+                "text": "requires cropping and are renewable",
+                "isCorrect": true,
+                "explanation": "Correct. They are a renewable resource, and 'cropping' (hunting) is required to keep them in balance."
+            },
+            {
+                "text": "likely will become depleted",
+                "isCorrect": false,
+                "explanation": "With proper management, they will not be depleted."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "A deer disappears into a clump of bushes. You think you still see it, so you shoot:",
+        "answers": [
+            {
+                "text": "where you think it is",
+                "isCorrect": false,
+                "explanation": "This violates the rule: Be sure of your target. You could hit another animal or person."
+            },
+            {
+                "text": "when you can see the deer clearly",
+                "isCorrect": true,
+                "explanation": "Correct. You must never shoot until you have a clear, identified target and a safe backstop."
+            },
+            {
+                "text": "while running towards the bushes",
+                "isCorrect": false,
+                "explanation": "This is unsafe; you could trip and have an accidental discharge."
+            },
+            {
+                "text": "into the air to make it come out",
+                "isCorrect": false,
+                "explanation": "This is unsafe and violates the rule of pointing your muzzle in a safe direction."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Habitat is the soil, water and plants which support wildlife. In orderfor wildlife to do well, changes in habitat must be:",
+        "answers": [
+            {
+                "text": "planned, implemented and evaluated carefully",
+                "isCorrect": true,
+                "explanation": "Correct. Habitat management is a science that requires careful planning."
+            },
+            {
+                "text": "prevented at all costs",
+                "isCorrect": false,
+                "explanation": "Change is natural (e.g., fire), and sometimes managed change is good."
+            },
+            {
+                "text": "made as quickly as possible and stop hunting in that area for a few years",
+                "isCorrect": false,
+                "explanation": "Rushing is not the answer."
+            },
+            {
+                "text": "seen as destructive to animals and never changes",
+                "isCorrect": false,
+                "explanation": "Change is constant; the key is managing it."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "A hunter finds a seriously injured animal of a species protected by law. He should:",
+        "answers": [
+            {
+                "text": "kill the animal and put it out of its misery",
+                "isCorrect": false,
+                "explanation": "This could be seen as poaching, even if well-intentioned."
+            },
+            {
+                "text": "leave it alone because a wounded animal is dangerous",
+                "isCorrect": false,
+                "explanation": "Leaving it is an option, but reporting is better."
+            },
+            {
+                "text": "report the animal and its location to a Wildlife Officer",
+                "isCorrect": true,
+                "explanation": "Correct. This is the proper legal procedure. Let the authorities handle it."
+            },
+            {
+                "text": "move the animal to a sheltered location",
+                "isCorrect": false,
+                "explanation": "This is dangerous and could cause more harm."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Wildlife conservation is based on the principle(s) of:",
+        "answers": [
+            {
+                "text": "preservation of wildlife",
+                "isCorrect": false,
+                "explanation": "Preservation means 'hands off'. Conservation means 'wise use'."
+            },
+            {
+                "text": "planned management and wise use of wildlife",
+                "isCorrect": true,
+                "explanation": "Correct. Conservation is about the wise, sustainable use of renewable resources."
+            },
+            {
+                "text": "provincial and federal government funding",
+                "isCorrect": false,
+                "explanation": "This is a funding source, not the principle itself."
+            },
+            {
+                "text": "supply and demand",
+                "isCorrect": false,
+                "explanation": "This is an economic principle, not a conservation one."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "As the survival of a breeding adult population of wildlife increases, the survival of its offspring (young):",
+        "answers": [
+            {
+                "text": "is completely lost for that year",
+                "isCorrect": false,
+                "explanation": "This is not a logical outcome."
+            },
+            {
+                "text": "increases",
+                "isCorrect": false,
+                "explanation": "This is incorrect. More adults mean more competition."
+            },
+            {
+                "text": "stays the same",
+                "isCorrect": false,
+                "explanation": "This is unlikely in a dynamic system."
+            },
+            {
+                "text": "decreases",
+                "isCorrect": true,
+                "explanation": "Correct. As a habitat reaches its carrying capacity with more adults, competition for food and resources increases, leading to lower survival rates for the young."
+            }
+        ],
+        "category": "Conservation"
+    },
+    {
+        "question": "A good sheath knife for hunting purposes should have a blade no longer than:",
+        "answers": [
+            {
+                "text": "10 cm (4 inch)",
+                "isCorrect": true,
+                "explanation": "Correct. A 4-inch blade is more than sufficient for field dressing and is safer to control."
+            },
+            {
+                "text": "15 cm (6 inch)",
+                "isCorrect": false,
+                "explanation": "A 6-inch blade is large and can be unwieldy for fine tasks."
+            },
+            {
+                "text": "20 cm (8 inch)",
+                "isCorrect": false,
+                "explanation": "This is unnecessarily large and dangerous."
+            },
+            {
+                "text": "25 cm (10 inch)",
+                "isCorrect": false,
+                "explanation": "This is a survival knife, not a practical hunting knife."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "An outdoorsman's MOST useful tool would be a/an:",
+        "answers": [
+            {
+                "text": "pocket knife",
+                "isCorrect": true,
+                "explanation": "Correct. A high-quality knife is versatile and can be used for first aid, fire starting, and food prep."
+            },
+            {
+                "text": "length of rope",
+                "isCorrect": false,
+                "explanation": "Rope is useful, but not as multi-purpose as a knife."
+            },
+            {
+                "text": "axe",
+                "isCorrect": false,
+                "explanation": "An axe is heavy and specialized; a knife is more essential."
+            },
+            {
+                "text": "file",
+                "isCorrect": false,
+                "explanation": "A file is for sharpening, but the knife itself is the primary tool."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "A compass needle points to:",
+        "answers": [
+            {
+                "text": "grid or true north",
+                "isCorrect": false,
+                "explanation": "True north is the geographic north pole. A map is oriented to true north."
+            },
+            {
+                "text": "magnetic north",
+                "isCorrect": true,
+                "explanation": "Correct. A compass needle is drawn to the Earth's magnetic north pole."
+            },
+            {
+                "text": "the north star",
+                "isCorrect": false,
+                "explanation": "The North Star (Polaris) indicates true north, not magnetic north."
+            },
+            {
+                "text": "the way home",
+                "isCorrect": false,
+                "explanation": "A compass only points north; you must know how to use it to find home."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "Headgear is an important part of outdoor dress because it:",
+        "answers": [
+            {
+                "text": "prevents rapid loss of body heat during cold weather",
+                "isCorrect": false,
+                "explanation": "This is a key reason."
+            },
+            {
+                "text": "protects the neck and ears from sunburn",
+                "isCorrect": false,
+                "explanation": "This is also a key reason."
+            },
+            {
+                "text": "protects head and eyes from branches and sticks",
+                "isCorrect": false,
+                "explanation": "This is also a key reason."
+            },
+            {
+                "text": "all of the above are correct",
+                "isCorrect": true,
+                "explanation": "Correct. A hat is crucial for heat regulation, sun protection, and physical protection."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "What is an essential item every hunter should carry when going into the forest for a day?",
+        "answers": [
+            {
+                "text": "extra food",
+                "isCorrect": false,
+                "explanation": "Food is important, but a survival kit contains more critical items."
+            },
+            {
+                "text": "an extra firearm",
+                "isCorrect": false,
+                "explanation": "This is unnecessary weight and not a survival item."
+            },
+            {
+                "text": "a survival kit",
+                "isCorrect": true,
+                "explanation": "Correct. A survival kit contains essentials like fire starters, a compass, a first-aid kit, and a signal mirror."
+            },
+            {
+                "text": "a cellular phone",
+                "isCorrect": false,
+                "explanation": "A phone is useful, but batteries die and service is unreliable. A survival kit always works."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "Which of the following is the smallest shotgun gauge:",
+        "answers": [
+            {
+                "text": "28 gauge",
+                "isCorrect": true,
+                "explanation": "Correct. In shotgun gauges, the larger the number, the smaller the bore (except for .410)."
+            },
+            {
+                "text": "12 gauge",
+                "isCorrect": false,
+                "explanation": "12 gauge is one of the largest and most common."
+            },
+            {
+                "text": "16 gauge",
+                "isCorrect": false,
+                "explanation": "16 gauge is smaller than 12, but larger than 20 and 28."
+            },
+            {
+                "text": "20 gauge",
+                "isCorrect": false,
+                "explanation": "20 gauge is smaller than 16, but larger than 28."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Never take a firearm into a building, tent or camp unless:",
+        "answers": [
+            {
+                "text": "it is unloaded",
+                "isCorrect": true,
+                "explanation": "Correct. All firearms must be confirmed unloaded before entering any dwelling."
+            },
+            {
+                "text": "the bolt is open",
+                "isCorrect": false,
+                "explanation": "This is part of proving it's unloaded, but 'unloaded' is the complete answer."
+            },
+            {
+                "text": "it is in its case",
+                "isCorrect": false,
+                "explanation": "It should be unloaded *before* it's cased, and unloaded *before* it enters."
+            },
+            {
+                "text": "the safety is on",
+                "isCorrect": false,
+                "explanation": "A safety can fail; the gun must be completely unloaded."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "A shotgun that produces the smallest or tightest pattern at a given distance has:",
+        "answers": [
+            {
+                "text": "an improved choke",
+                "isCorrect": false,
+                "explanation": "Improved cylinder is a very open choke."
+            },
+            {
+                "text": "a modified choke",
+                "isCorrect": false,
+                "explanation": "Modified is a medium choke."
+            },
+            {
+                "text": "a full choke",
+                "isCorrect": true,
+                "explanation": "Correct. A full choke has the tightest constriction and smallest pattern."
+            },
+            {
+                "text": "no choke",
+                "isCorrect": false,
+                "explanation": "This would be a 'cylinder' bore, which has the widest pattern."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "You and two other hunters are walking three abreast (side by side); you are in the middle. Your firearms should be unloaded and:",
+        "answers": [
+            {
+                "text": "pointed left",
+                "isCorrect": false,
+                "explanation": "This would point at your partner."
+            },
+            {
+                "text": "pointed ahead",
+                "isCorrect": true,
+                "explanation": "Correct. The hunter in the middle should keep the muzzle pointed forward and up or down."
+            },
+            {
+                "text": "pointed right",
+                "isCorrect": false,
+                "explanation": "This would point at your partner."
+            },
+            {
+                "text": "cased",
+                "isCorrect": false,
+                "explanation": "This is not a practical way to hunt, though it would be safe."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The MOST stable or steady shooting position is:",
+        "answers": [
+            {
+                "text": "prone",
+                "isCorrect": true,
+                "explanation": "Correct. Lying prone provides the most contact with the ground, making it the most stable."
+            },
+            {
+                "text": "kneeling",
+                "isCorrect": false,
+                "explanation": "Kneeling is stable, but not as stable as prone."
+            },
+            {
+                "text": "sitting",
+                "isCorrect": false,
+                "explanation": "Sitting is stable, but not as stable as prone."
+            },
+            {
+                "text": "standing",
+                "isCorrect": false,
+                "explanation": "Standing (off-hand) is the least stable position."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The 'Two-Hand' or 'Ready' carry position is best in most situations because:",
+        "answers": [
+            {
+                "text": "doesn't require a sling",
+                "isCorrect": false,
+                "explanation": "This is true, but not the main reason."
+            },
+            {
+                "text": "keeps the muzzle up and off the ground",
+                "isCorrect": false,
+                "explanation": "Other carries also do this."
+            },
+            {
+                "text": "creates less tension on the arm and shoulder muscles",
+                "isCorrect": false,
+                "explanation": "It creates more tension than a sling, but keeps you ready."
+            },
+            {
+                "text": "offers total muzzle control",
+                "isCorrect": true,
+                "explanation": "Correct. With both hands on the firearm, you have the best control over the muzzle direction."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Three MAIN types of cartridges used to day are the shotshell, centerfire and:",
+        "answers": [
+            {
+                "text": "wheel-lock",
+                "isCorrect": false,
+                "explanation": "A wheel-lock is an antique firing mechanism."
+            },
+            {
+                "text": "pinfire",
+                "isCorrect": false,
+                "explanation": "Pinfire is an obsolete cartridge type."
+            },
+            {
+                "text": "matchlock",
+                "isCorrect": false,
+                "explanation": "A matchlock is an antique firing mechanism."
+            },
+            {
+                "text": "rimfire",
+                "isCorrect": true,
+                "explanation": "Correct. The three types are centerfire, rimfire (like .22 LR), and shotshell."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Lining up the front and rear sights is called:",
+        "answers": [
+            {
+                "text": "sight picture",
+                "isCorrect": false,
+                "explanation": "Sight picture is the alignment of the sights *with the target*."
+            },
+            {
+                "text": "sight alignment",
+                "isCorrect": true,
+                "explanation": "Correct. Sight alignment is the relationship between the front and rear sights."
+            },
+            {
+                "text": "marksmanship",
+                "isCorrect": false,
+                "explanation": "This is the overall skill of shooting."
+            },
+            {
+                "text": "sighting in",
+                "isCorrect": false,
+                "explanation": "This is the process of adjusting the sights to hit the target."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Your dominant eye:",
+        "answers": [
+            {
+                "text": "changes when you wear glasses",
+                "isCorrect": false,
+                "explanation": "Eye dominance is neurological; it doesn't change."
+            },
+            {
+                "text": "is not important when using a scope to aim your firearm",
+                "isCorrect": false,
+                "explanation": "It is still important, though a scope can make it easier to use your non-dominant eye."
+            },
+            {
+                "text": "is used to aim and sight all firearms",
+                "isCorrect": true,
+                "explanation": "Correct. You should shoot with your dominant eye, as it's the one your brain prefers for aiming."
+            },
+            {
+                "text": "is usually larger in size than your other eye",
+                "isCorrect": false,
+                "explanation": "Dominance is not related to size."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Which of the following are the MAJOR parts of a rifle cartridge?",
+        "answers": [
+            {
+                "text": "bullet, primer, powder, case",
+                "isCorrect": true,
+                "explanation": "Correct. These are the four components of a centerfire cartridge."
+            },
+            {
+                "text": "bullet, case, primer, wad",
+                "isCorrect": false,
+                "explanation": "A wad is found in a shotshell, not a rifle cartridge."
+            },
+            {
+                "text": "bullet, powder, lead, case",
+                "isCorrect": false,
+                "explanation": "The bullet is made of lead, but 'lead' is not a separate component."
+            },
+            {
+                "text": "powder, case, bullet, primer, extractor, ejector",
+                "isCorrect": false,
+                "explanation": "The extractor and ejector are parts of the firearm, not the cartridge."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "A gun should be properly cleaned each time:",
+        "answers": [
+            {
+                "text": "it has been stored uncovered for a long time",
+                "isCorrect": false,
+                "explanation": "True, but 'all of the above' is the better answer."
+            },
+            {
+                "text": "it is exposed to sand, mud, rain or snow",
+                "isCorrect": false,
+                "explanation": "True, but 'all of the above' is the better answer."
+            },
+            {
+                "text": "moisture forms on the metal parts",
+                "isCorrect": false,
+                "explanation": "True, but 'all of the above' is the better answer."
+            },
+            {
+                "text": "all of the above",
+                "isCorrect": true,
+                "explanation": "Correct. A firearm must be cleaned after use, exposure to elements, or long-term storage."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The 'calibre' of a firearm refers to the measurement of...",
+        "answers": [
+            {
+                "text": "inside diameter of the barrel",
+                "isCorrect": true,
+                "explanation": "Correct. Caliber refers to the diameter of the bore, usually in inches or millimeters."
+            },
+            {
+                "text": "number of pellets in the shell",
+                "isCorrect": false,
+                "explanation": "This is part of the 'shot' measurement in a shotshell."
+            },
+            {
+                "text": "weight of the bullet",
+                "isCorrect": false,
+                "explanation": "This is measured in grains or grams."
+            },
+            {
+                "text": "length of the bullet",
+                "isCorrect": false,
+                "explanation": "This is not what caliber measures."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Which arrow head would be used to hunt big game?",
+        "answers": [
+            {
+                "text": "Field Tip",
+                "isCorrect": false,
+                "explanation": "This is for target practice."
+            },
+            {
+                "text": "Target Tip",
+                "isCorrect": false,
+                "explanation": "This is for target practice."
+            },
+            {
+                "text": "Broadhead",
+                "isCorrect": true,
+                "explanation": "Correct. Broadheads have sharp blades designed for humane harvesting of big game."
+            },
+            {
+                "text": "Blunt Tip",
+                "isCorrect": false,
+                "explanation": "This is for small game, like squirrels or rabbits."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The correct way to store a compound bow is hung horizontally on a wall rack or vertically on a hook.",
+        "answers": [
+            {
+                "text": "TRUE",
+                "isCorrect": true,
+                "explanation": "Correct. This prevents warping the limbs or stressing the cables."
+            },
+            {
+                "text": "FALSE",
+                "isCorrect": false,
+                "explanation": "False. Storing it in a case long-term or on the ground can cause issues."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "What is the minimum length that an arrow must be for hunting big game in Alberta?",
+        "answers": [
+            {
+                "text": "24 inches (61cm)",
+                "isCorrect": true,
+                "explanation": "Correct. The minimum arrow length, when measured from the nock's throat to the back of the broadhead, is 61 cm (24 in)."
+            },
+            {
+                "text": "28 inches (71cm)",
+                "isCorrect": false,
+                "explanation": "This is longer than the minimum requirement."
+            },
+            {
+                "text": "30 inches (76cm)",
+                "isCorrect": false,
+                "explanation": "This is longer than the minimum requirement."
+            },
+            {
+                "text": "26 inches (66cm)",
+                "isCorrect": false,
+                "explanation": "This is longer than the minimum requirement."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "What is the minimum allowable 'draw weight' for a bow used to hunt big game animals?",
+        "answers": [
+            {
+                "text": "30lbs (13.6 kg)",
+                "isCorrect": false,
+                "explanation": "This is below the legal minimum."
+            },
+            {
+                "text": "40lbs (18kg)",
+                "isCorrect": false,
+                "explanation": "This was the minimum in 2024, but it has recently changed."
+            },
+            {
+                "text": "50lbs (23kg)",
+                "isCorrect": false,
+                "explanation": "This is a common draw weight, but it's higher than the legal minimum."
+            },
+            {
+                "text": "35lbs (15.8kg)",
+                "isCorrect": true,
+                "explanation": "Correct! As of the 2025 regulations, the minimum draw weight was reduced to 35 lbs."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "The anchor point is a point on the face which the bow string, finger or release is always drawn to.",
+        "answers": [
+            {
+                "text": "TRUE",
+                "isCorrect": true,
+                "explanation": "Correct. A consistent anchor point is essential for accuracy in archery."
+            },
+            {
+                "text": "FALSE",
+                "isCorrect": false,
+                "explanation": "This is the correct definition of an anchor point."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "Which wildlife management unit (WMU) in Alberta is set aside for hunting all game with a bow and arrow only?",
+        "answers": [
+            {
+                "text": "212 (Calgary)",
+                "isCorrect": false,
+                "explanation": "WMU 212 is a bow-only zone, but WMU 410 is also one."
+            },
+            {
+                "text": "WMU 410 near Canmore",
+                "isCorrect": false,
+                "explanation": "WMU 410 is a bow-only zone, but WMU 212 is also one."
+            },
+            {
+                "text": "All of the Above",
+                "isCorrect": true,
+                "explanation": "Correct. Both 212 and 410 are designated bow-only zones, along with 248."
+            },
+            {
+                "text": "248 (Edmonton)",
+                "isCorrect": false,
+                "explanation": "WMU 248 is also a bow-only zone."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "What are the four main parts to an arrow?",
+        "answers": [
+            {
+                "text": "Shaft, Point, Fletching and Fibreglass",
+                "isCorrect": false,
+                "explanation": "Fibreglass is a shaft material, not a part."
+            },
+            {
+                "text": "Point, Nock, Shaft and Fletching.",
+                "isCorrect": true,
+                "explanation": "Correct. These are the four components of an arrow."
+            },
+            {
+                "text": "Head, Rest, Fletching and Shaft.",
+                "isCorrect": false,
+                "explanation": "The 'rest' is part of the bow, not the arrow."
+            },
+            {
+                "text": "Shaft, Point, Feather and Aluminum",
+                "isCorrect": false,
+                "explanation": "'Feather' is a fletching material, and 'Aluminum' is a shaft material."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The recommended method for stringing a longbow or a recurve bow is to use a ______________",
+        "answers": [
+            {
+                "text": "Compound bow stringer",
+                "isCorrect": false,
+                "explanation": "This is for a compound bow."
+            },
+            {
+                "text": "Bow Stringing Device",
+                "isCorrect": true,
+                "explanation": "Correct. A bow stringer is the safest method and prevents twisting the limbs."
+            },
+            {
+                "text": "Bow press",
+                "isCorrect": false,
+                "explanation": "A bow press is for compound bows."
+            },
+            {
+                "text": "Step through method",
+                "isCorrect": false,
+                "explanation": "This method is dangerous and can easily twist and damage the bow limbs."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The three basic bow designs are: Straight limb, Recurve, and ______________",
+        "answers": [
+            {
+                "text": "Crossbow",
+                "isCorrect": false,
+                "explanation": "A crossbow is a different category of bow."
+            },
+            {
+                "text": "Short limb bow",
+                "isCorrect": false,
+                "explanation": "This is a characteristic, not a basic design."
+            },
+            {
+                "text": "Compound",
+                "isCorrect": true,
+                "explanation": "Correct. The three basic designs are the longbow (straight limb), the recurve, and the compound."
+            },
+            {
+                "text": "Fixed Limb Bow",
+                "isCorrect": false,
+                "explanation": "This describes a type of construction, not a design."
+            }
+        ],
+        "category": "Safety"
+    },
+    {
+        "question": "The MOST effective signal at night is a:",
+        "answers": [
+            {
+                "text": "sound signal",
+                "isCorrect": false,
+                "explanation": "Sound (like a whistle) is good, but fire is better."
+            },
+            {
+                "text": "large bright fire",
+                "isCorrect": true,
+                "explanation": "Correct. Fire is visible from a long distance at night and provides warmth."
+            },
+            {
+                "text": "smoky fire",
+                "isCorrect": false,
+                "explanation": "Smoky fires are best for daytime signaling."
+            },
+            {
+                "text": "signal mirror",
+                "isCorrect": false,
+                "explanation": "A signal mirror requires a light source (like the sun) and is ineffective at night."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "The BEST way to prepare small game you have captured while on survival is to:",
+        "answers": [
+            {
+                "text": "boil it for soup and meat",
+                "isCorrect": true,
+                "explanation": "Correct. Boiling ensures the meat is cooked through (killing parasites) and allows you to drink the broth, conserving all nutrients."
+            },
+            {
+                "text": "dry it in small meat strips",
+                "isCorrect": false,
+                "explanation": "This is for long-term preservation, not immediate survival needs."
+            },
+            {
+                "text": "fry it with mushrooms",
+                "isCorrect": false,
+                "explanation": "Frying can burn the meat, and eating unknown mushrooms is deadly."
+            },
+            {
+                "text": "clean it carefully and eat it raw",
+                "isCorrect": false,
+                "explanation": "Never eat wild game raw; it can carry diseases and parasites."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "The MOST important items to carry when going into the outdoors is/are:",
+        "answers": [
+            {
+                "text": "high energy candy",
+                "isCorrect": false,
+                "explanation": "This is good, but not the *most* important."
+            },
+            {
+                "text": "wooden, strike anywhere matches",
+                "isCorrect": true,
+                "explanation": "Correct. The ability to make a fire is the most critical survival tool."
+            },
+            {
+                "text": "a survival book",
+                "isCorrect": false,
+                "explanation": "You should know the skills *before* you go; the matches are the tool."
+            },
+            {
+                "text": "a signal mirror",
+                "isCorrect": false,
+                "explanation": "A mirror is excellent, but fire is more versatile (warmth, water, signal)."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "Pain, cold, thirst and hunger are factors that affect survival. Which of the following is JUST as important?",
+        "answers": [
+            {
+                "text": "boredom and loneliness",
+                "isCorrect": true,
+                "explanation": "Correct. The psychological factors—fear, panic, boredom, loneliness—can cause people to make fatal mistakes."
+            },
+            {
+                "text": "night time",
+                "isCorrect": false,
+                "explanation": "This is a condition, not a mental factor."
+            },
+            {
+                "text": "sitting quietly",
+                "isCorrect": false,
+                "explanation": "This is part of the solution (S.T.O.P.)."
+            },
+            {
+                "text": "embarrassment about being lost",
+                "isCorrect": false,
+                "explanation": "This is a factor, but 'boredom and loneliness' better capture the psychological toll."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "The MOST practical way to start a fire is with:",
+        "answers": [
+            {
+                "text": "a flint and steel",
+                "isCorrect": false,
+                "explanation": "This is a good backup, but requires more skill."
+            },
+            {
+                "text": "a magnifying glass",
+                "isCorrect": false,
+                "explanation": "This only works in direct sunlight."
+            },
+            {
+                "text": "paper matches",
+                "isCorrect": false,
+                "explanation": "Paper matches are flimsy and often fail when damp."
+            },
+            {
+                "text": "wooden matches",
+                "isCorrect": true,
+                "explanation": "Correct. Wooden matches (especially waterproof ones) are the most reliable and practical method."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "When building a lean-to shelter, place all the boughs butt ends:",
+        "answers": [
+            {
+                "text": "toward the inside of the shelter",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "pointed upwards",
+                "isCorrect": false,
+                "explanation": "This will catch water and funnel it inside."
+            },
+            {
+                "text": "on their sides",
+                "isCorrect": false,
+                "explanation": "This is not how you 'thatch' a roof."
+            },
+            {
+                "text": "pointed downwards",
+                "isCorrect": true,
+                "explanation": "Correct. Like shingles on a roof, place them butt-end up and tip-end down to shed water."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "Your body needs two or three litres of water a day, so you should:",
+        "answers": [
+            {
+                "text": "drink even though you may not feel thirsty",
+                "isCorrect": true,
+                "explanation": "Correct. By the time you feel thirsty, you are already dehydrated. Sip water constantly."
+            },
+            {
+                "text": "ration water by sipping",
+                "isCorrect": false,
+                "explanation": "Do not ration water if you have a source. Rationing leads to dehydration."
+            },
+            {
+                "text": "drink only when thirsty",
+                "isCorrect": false,
+                "explanation": "This is too late; thirst is a sign of dehydration."
+            },
+            {
+                "text": "drink only during meals",
+                "isCorrect": false,
+                "explanation": "You must drink water throughout the day."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "The BEST way to stop a small wound from bleeding is to:",
+        "answers": [
+            {
+                "text": "place a tourniquet between the wound and the heart",
+                "isCorrect": false,
+                "explanation": "Tourniquets are a last resort for severe, life-threatening arterial bleeding."
+            },
+            {
+                "text": "apply direct pressure to the wound",
+                "isCorrect": true,
+                "explanation": "Correct. Direct pressure with a clean cloth is the standard way to stop most bleeding."
+            },
+            {
+                "text": "cover the wound with a loose bandage",
+                "isCorrect": false,
+                "explanation": "The bandage must be firm to apply pressure."
+            },
+            {
+                "text": "leave it alone and it will stop in time",
+                "isCorrect": false,
+                "explanation": "This is not a safe first-aid practice."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "While recovering from hypothermia, a victim should be given:",
+        "answers": [
+            {
+                "text": "nothing to drink",
+                "isCorrect": false,
+                "explanation": "The person needs hydration and internal warmth."
+            },
+            {
+                "text": "warm, non-alcoholic drinks",
+                "isCorrect": true,
+                "explanation": "Correct. Warm, sweet drinks (like hot chocolate) provide warmth and energy."
+            },
+            {
+                "text": "a cool drink of fruit juices",
+                "isCorrect": false,
+                "explanation": "Cool drinks will lower their core temperature."
+            },
+            {
+                "text": "vitamin 'C'",
+                "isCorrect": false,
+                "explanation": "This has no immediate effect on hypothermia."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "Hypothermia means:",
+        "answers": [
+            {
+                "text": "the inner body temperature has risen more than 2 degrees Celsius",
+                "isCorrect": false,
+                "explanation": "This is hyperthermia (heat stroke)."
+            },
+            {
+                "text": "dizziness from lack of food and water",
+                "isCorrect": false,
+                "explanation": "These are symptoms, not the definition."
+            },
+            {
+                "text": "the inner body temperature has dropped more than 2 degrees Celsius",
+                "isCorrect": true,
+                "explanation": "Correct. Hypothermia is a dangerous drop in core body temperature."
+            },
+            {
+                "text": "the victim's body temperature is rising and falling 2 degrees Celsius or more",
+                "isCorrect": false,
+                "explanation": "This is not the definition."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "The BEST way to warm frostbitten skin is to:",
+        "answers": [
+            {
+                "text": "rub it gently with snow",
+                "isCorrect": false,
+                "explanation": "NEVER rub frostbite. This causes cell damage."
+            },
+            {
+                "text": "rub it vigorously with a glove or cloth",
+                "isCorrect": false,
+                "explanation": "NEVER rub frostbite. This is very dangerous."
+            },
+            {
+                "text": "hold it against a warm part of your body",
+                "isCorrect": true,
+                "explanation": "Correct. Skin-to-skin contact (e.g., placing cold fingers in your armpit) is the best first step."
+            },
+            {
+                "text": "immerse it in hot water",
+                "isCorrect": false,
+                "explanation": "Hot water can cause severe burns. 'Warm' water (not hot) is used, but only if there is no risk of refreezing."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "A severely sprained wrist or ankle should be:",
+        "answers": [
+            {
+                "text": "splinted, elevated and treated with cold compresses",
+                "isCorrect": true,
+                "explanation": "Correct. This follows the R.I.C.E. principle (Rest, Immobilize, Cold, Elevate)."
+            },
+            {
+                "text": "treated with hot compresses",
+                "isCorrect": false,
+                "explanation": "Heat increases swelling and should not be used on an acute injury."
+            },
+            {
+                "text": "splinted, elevated and treated with hot compresses",
+                "isCorrect": false,
+                "explanation": "Heat is incorrect."
+            },
+            {
+                "text": "left unwrapped, elevated and treated with cold compresses",
+                "isCorrect": false,
+                "explanation": "It should be 'Immobilized' or splinted to prevent further injury."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "How is a moderate burn to the hand treated:",
+        "answers": [
+            {
+                "text": "first apply an antiseptic or disinfectant, then cover with a clean dressing",
+                "isCorrect": false,
+                "explanation": "Do not apply antiseptics. Cool the burn first."
+            },
+            {
+                "text": "first apply a cold compress till pain lessens, then apply a clean dressing",
+                "isCorrect": true,
+                "explanation": "Correct. Cool the burn with cool (not ice) water or compresses, then cover loosely."
+            },
+            {
+                "text": "apply butter or grease to burn, then leave open to air-cool the wound",
+                "isCorrect": false,
+                "explanation": "NEVER apply butter or grease. This traps heat and causes infection."
+            },
+            {
+                "text": "leave it alone and take a few painkillers every four hours",
+                "isCorrect": false,
+                "explanation": "The burn must be cooled to stop the damage."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "A case of mild hypothermia:",
+        "answers": [
+            {
+                "text": "can be safely ignored; this happens to everyone while outdoors",
+                "isCorrect": false,
+                "explanation": "It should never be ignored; it can quickly become severe."
+            },
+            {
+                "text": "should be treated later that evening when arriving back at camp",
+                "isCorrect": false,
+                "explanation": "It must be treated immediately."
+            },
+            {
+                "text": "should be treated immediately",
+                "isCorrect": true,
+                "explanation": "Correct. Mild hypothermia is a serious warning. Stop, get warm, and eat."
+            },
+            {
+                "text": "can be treated with a drink of juice and something to eat",
+                "isCorrect": false,
+                "explanation": "This is not enough. The person must be warmed (dry clothes, shelter)."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "If a person should fall into cold water and cannot get out, he should:",
+        "answers": [
+            {
+                "text": "assume the HELP position",
+                "isCorrect": true,
+                "explanation": "Correct. The Heat Escape Lessening Posture (HELP) involves curling into a ball to protect the core."
+            },
+            {
+                "text": "swim or move around a lot to maintain his body heat",
+                "isCorrect": false,
+                "explanation": "This is wrong. Treading water or swimming rapidly increases heat loss."
+            },
+            {
+                "text": "lie flat and still in a floating position",
+                "isCorrect": false,
+                "explanation": "This exposes the maximum surface area to the cold water."
+            },
+            {
+                "text": "use the drown proofing technique",
+                "isCorrect": false,
+                "explanation": "This technique (bobbing) is for warm water and will cause rapid heat loss."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "A person in shock should be:",
+        "answers": [
+            {
+                "text": "treated with cold compresses",
+                "isCorrect": false,
+                "explanation": "A shock victim is often cold; they must be kept warm."
+            },
+            {
+                "text": "given warm strong tea and painkiller",
+                "isCorrect": false,
+                "explanation": "Do not give a shock victim anything to eat or drink."
+            },
+            {
+                "text": "kept lying down and kept warm",
+                "isCorrect": true,
+                "explanation": "Correct. Lay them down, elevate their feet (if no leg/spine injury), and cover them."
+            },
+            {
+                "text": "helped to sit up as soon as possible",
+                "isCorrect": false,
+                "explanation": "This can cause blood pressure to drop. Keep them lying down."
+            }
+        ],
+        "category": "Survival"
+    },
+    {
+        "question": "In Alberta the legal hunting hours are from:",
+        "answers": [
+            {
+                "text": "one hour before sunrise to half an hour after sunset",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "half an hour before sunrise to one hour after sunset",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "one hour before sunrise to one hour after sunset",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "half an hour before sunrise to half an hour after sunset",
+                "isCorrect": true,
+                "explanation": "Correct. These are the standard legal hunting hours in Alberta."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "It is unlawful to shoot at a big game animal if it:",
+        "answers": [
+            {
+                "text": "is swimming",
+                "isCorrect": true,
+                "explanation": "Correct. It is unethical and illegal to shoot a big game animal while it is swimming."
+            },
+            {
+                "text": "is standing on ice",
+                "isCorrect": false,
+                "explanation": "This is legal, though a safe shot and recovery must be considered."
+            },
+            {
+                "text": "is standing in a shallow pond",
+                "isCorrect": false,
+                "explanation": "This is legal, as long as it's not swimming."
+            },
+            {
+                "text": "has a radio collar or ear tag",
+                "isCorrect": false,
+                "explanation": "It is legal to harvest a collared animal, but you must report it."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Hunting on Sunday in Alberta is:",
+        "answers": [
+            {
+                "text": "legal anywhere a season is open for Sunday hunting",
+                "isCorrect": true,
+                "explanation": "Correct. Sunday hunting is permitted in many WMUs, but you must check the regulations for your specific area."
+            },
+            {
+                "text": "legal only in the area designated at the 'Green Area'",
+                "isCorrect": false,
+                "explanation": "This is not the rule; it varies by WMU."
+            },
+            {
+                "text": "legal on any crown land and the season is open",
+                "isCorrect": false,
+                "explanation": "This is not true; some WMUs are closed on Sundays."
+            },
+            {
+                "text": "not legal anywhere",
+                "isCorrect": false,
+                "explanation": "This is incorrect; Sunday hunting is common."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "It is unlawful to hunt game birds with a shotgun that holds more than:",
+        "answers": [
+            {
+                "text": "7 shotshells",
+                "isCorrect": false,
+                "explanation": "This is too many."
+            },
+            {
+                "text": "4 shotshells",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "5 shotshells",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "3 shotshells",
+                "isCorrect": true,
+                "explanation": "Correct. The shotgun must be 'plugged' so that it cannot hold more than 3 shells in the magazine and chamber combined."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "The largest shotgun gauge permitted to hunt in Alberta is:",
+        "answers": [
+            {
+                "text": "6 gauge",
+                "isCorrect": false,
+                "explanation": "This gauge is not permitted."
+            },
+            {
+                "text": "8 gauge",
+                "isCorrect": false,
+                "explanation": "This gauge is not permitted."
+            },
+            {
+                "text": "10 gauge",
+                "isCorrect": true,
+                "explanation": "Correct. 10 gauge is the largest gauge legally allowed for hunting in Alberta."
+            },
+            {
+                "text": "12 gauge",
+                "isCorrect": false,
+                "explanation": "12 gauge is permitted, but 10 gauge is larger."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "It is legal to hunt waterfowl with a:",
+        "answers": [
+            {
+                "text": "bow and arrow",
+                "isCorrect": false,
+                "explanation": "This is legal for *upland* game birds, but not waterfowl."
+            },
+            {
+                "text": "10 gauge shotgun",
+                "isCorrect": false,
+                "explanation": "This is a legal firearm for waterfowl."
+            },
+            {
+                "text": ".410 gauge shotgun",
+                "isCorrect": false,
+                "explanation": "This is also a legal firearm for waterfowl."
+            },
+            {
+                "text": "all of the answers are legal",
+                "isCorrect": true,
+                "explanation": "Correct. You can hunt waterfowl with any gauge shotgun (10 gauge or smaller, including .410) and a bow and arrow."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "A firearm in or on a vehicle, aircraft or boat is considered loaded if it has live ammunition in the:",
+        "answers": [
+            {
+                "text": "breech, chamber or magazine",
+                "isCorrect": true,
+                "explanation": "Correct. Ammunition must not be in the breech, chamber, or magazine (even a detachable one) in a vehicle."
+            },
+            {
+                "text": "breech or magazine",
+                "isCorrect": false,
+                "explanation": "This is incomplete."
+            },
+            {
+                "text": "chamber or magazine",
+                "isCorrect": false,
+                "explanation": "This is incomplete."
+            },
+            {
+                "text": "breech or chamber",
+                "isCorrect": false,
+                "explanation": "This is incomplete; the magazine also counts."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "It is unlawful to fire, or cause a projectile from a firearm to pass within how many yards (metres) of an occupied building?",
+        "answers": [
+            {
+                "text": "200 yards (183 metres)",
+                "isCorrect": true,
+                "explanation": "Correct. You must not discharge a firearm within 200 yards of an occupied building."
+            },
+            {
+                "text": "300 yards (274 metres)",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "400 yards (366 metres)",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            },
+            {
+                "text": "500 yards (458 metres)",
+                "isCorrect": false,
+                "explanation": "This is incorrect."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "To obtain a firearms license (PAL), a person should apply through:",
+        "answers": [
+            {
+                "text": "a Fish and Wildlife Office",
+                "isCorrect": false,
+                "explanation": "This is a provincial office; firearms are federal."
+            },
+            {
+                "text": "a licensed vendor",
+                "isCorrect": false,
+                "explanation": "They sell firearms, but do not issue licenses."
+            },
+            {
+                "text": "a provincial government office",
+                "isCorrect": false,
+                "explanation": "Firearms are a federal responsibility."
+            },
+            {
+                "text": "the Canadian Firearms Program (Government of Canada)",
+                "isCorrect": true,
+                "explanation": "Correct. The PAL (Possession and Acquisition License) is issued by the RCMP via the federal CFP."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Hunters must register which of the following if they shoot a/an:",
+        "answers": [
+            {
+                "text": "cougar",
+                "isCorrect": true,
+                "explanation": "Correct. Cougars must be registered with Fish and Wildlife."
+            },
+            {
+                "text": "black bear",
+                "isCorrect": false,
+                "explanation": "Black bears do not require registration."
+            },
+            {
+                "text": "moose",
+                "isCorrect": false,
+                "explanation": "Moose do not require registration."
+            },
+            {
+                "text": "mule deer",
+                "isCorrect": false,
+                "explanation": "Mule deer do not require registration."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Which of the following rifle calibres is not allowed for big game hunting in Alberta?",
+        "answers": [
+            {
+                "text": ".30-06 Sprg.",
+                "isCorrect": false,
+                "explanation": "This is a very common and legal calibre for big game."
+            },
+            {
+                "text": "7mm Remington magnum",
+                "isCorrect": false,
+                "explanation": "This is a common and legal calibre for big game."
+            },
+            {
+                "text": ".17 HMR",
+                "isCorrect": true,
+                "explanation": "Correct. This is a small rimfire calibre and is not legal for big game."
+            },
+            {
+                "text": ".270 Win.",
+                "isCorrect": false,
+                "explanation": "This is a common and legal calibre for big game."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "In Alberta, the law which protects wildlife and regulates hunting is the:",
+        "answers": [
+            {
+                "text": "Forest Protection Act",
+                "isCorrect": false,
+                "explanation": "This deals with forestry."
+            },
+            {
+                "text": "Wildlife Act",
+                "isCorrect": true,
+                "explanation": "Correct. The Alberta Wildlife Act is the primary legislation."
+            },
+            {
+                "text": "Alberta Game Act",
+                "isCorrect": false,
+                "explanation": "This is an older, outdated name."
+            },
+            {
+                "text": "Environmental Protection Act",
+                "isCorrect": false,
+                "explanation": "This is a broader act; the Wildlife Act is specific to hunting."
+            }
+        ],
+        "category": "Ethics"
+    },
+    {
+        "question": "Which big game animal listed below is protected year-round in Alberta?",
+        "answers": [
+            {
+                "text": "mule deer",
+                "isCorrect": false,
+                "explanation": "Mule deer are hunted."
+            },
+            {
+                "text": "cougar",
+                "isCorrect": false,
+                "explanation": "Cougars are hunted."
+            },
+            {
+                "text": "elk",
+                "isCorrect": false,
+                "explanation": "Elk are hunted."
+            },
+            {
+                "text": "woodland caribou",
+                "isCorrect": true,
+                "explanation": "Correct. Woodland caribou are a protected species and not hunted in Alberta."
+            }
+        ],
+        "category": "Conservation"
+    }
+]
